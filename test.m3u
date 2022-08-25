@@ -1,3 +1,12 @@
+#EXTINF:-1 tvg-logo="" group-title="TEST" tvg-id="",Test ClearKey KODI
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"90e6e0d8b1d988b6151220ee6eb2e56e","kid":"f7c8d3ea42f2a4da3b1423a32397bd3a"}],"type":"temporary"}
+#EXTVLCOPT:http-referer=https://bitmovin.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"45a76dcc84f058cfabc8b958d7303b28","kid":"a354b0c82a3a720c4a6f52ed5a1190f4"}],"type":"temporary"}
 https://edge1-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
 
