@@ -66,7 +66,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyC
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
 nputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=58e1ebe75d944f6a98ea67b1c7c0a572&key=1c311b069dbce31ce8e62a6e7e2433eb
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a7e09c6f47af57e999b789eb54d3255d&key=263f6db12d6f9aa72f2cc9b0ef2e26b2
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 
