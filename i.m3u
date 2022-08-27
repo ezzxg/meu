@@ -51,6 +51,9 @@ https://wisp.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTHDArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",TNT HD
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/512px-TCM_Latam_logo.svg.png"TCM
+https://wisp.cdn.rcs.net.ar/mnp/tcm_hls/track_1_2000/playlist.m3u8
+
 #EXTINF:-1 tvg-id="StudioUniversalHDSouth.us" tvg-logo="https://i.imgur.com/piyOYME.png",Studio Universal HD
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 
