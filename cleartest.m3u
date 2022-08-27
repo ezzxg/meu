@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://example.com/epg.xml.gz"
 
-#EXTINF:-1 group-title="Music", TEST1 clelelle
+#EXTINF:-1 group-title="Music", TEST1 FXS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f48f9e79f54b38d619fd25565c4d14b:02828e6346a46e61e965202cd8787e3a
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
