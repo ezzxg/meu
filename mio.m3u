@@ -29,6 +29,11 @@ https://edge1-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.m
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=68188b3bb79453cab7b26ee929a25ed4&key=610c951737cb9e221f07c986b6c66f7d
+#EXTINF:-1 tvg-id="ParamountNetworkHDPanregional.us" tvg-logo="https://i.imgur.com/CluqAlU.png",Paramount HD
+https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948
 #EXTINF:-1 tvg-id="cinecanal" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3445.png",CineCanal HD
 https://edge-live12-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
@@ -50,6 +55,16 @@ https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd
 
 #EXTINF:-1 tvg-id="star channel" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/19.png",Star Channel
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=99eefc068db3509b9f0cf5b34114219d&key=6c23e31a4d83b568e84aec609a63ebc9
+#EXTINF:-1 tvg-id="HBOHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
+https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2a2aed17dc6050fb9dee6e65a06b3925&key=bac5818a6e1135db3c9f24fb752f699f
+#EXTINF:-1 tvg-id="HBO2HDLatinAmerica.us" tvg-logo="https://i.imgur.com/BS16Dmx.png",HBO 2 HD
+https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=db12035627a4b3d7198b761f36b4a290&key=80ca761a875992ac0e50b0851d5563fe
@@ -75,6 +90,11 @@ https://edge-live17-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc/Dis
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d32d815d1f7f5325ba73562534662c92&key=75e66a4ed7880c71655d24e52cad3bd3
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png",Discovery Turbo HD
 https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d0cecffe9c29734343cf9983978c1a1&key=f86b5ac05f2a2626b6c61bd4e13344d8
+#EXTINF:-1 tvg-id="TruTVPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/512px-TruTV_logo_2014.png",TruTV HD
+https://edge-live17-sl.cvattv.com.ar/live/c7eds/TruTV/SA_Live_dash_enc_2A/TruTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec7ac96ab5f8a5d244e213614cbb4438&key=54420ff71bb5805931ac6eef7d9816c9
