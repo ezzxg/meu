@@ -40,7 +40,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_2A/MTV_H
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0
-#EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/2089px-MTV_Hits_2017_logo.svg.png",MTV HITS
+#EXTINF:-1 tvg-id="MTVHits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/2089px-MTV_Hits_2017_logo.svg.png",MTV HITS
 https://edge-live17-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,7 +63,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc_2A/MTV00.
 #EXTINF:-1 tvg-id="NickMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",NickMusic
 https://edge-live17-sl.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_2A/Nickmusic.mpd
 
-#EXTINF:-1 tvg-id="NickMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",VH1 HD
+#EXTINF:-1 tvg-id="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png",VH1 HD
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
