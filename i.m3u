@@ -2,21 +2,19 @@
 EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz"
 
 #EXTINF:-1 tvg-id="ElTreceHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png",El Trece HD
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 #EXTINF:-1 tvg-id="TelefeHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png",Telefe HD
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
 #EXTINF:-1 tvg-id="ElNueveHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",El Nueve HD
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 tvg-id="AmericaTVHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",America HD
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
 #EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Publica HD
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
-
-#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TV Publica HD
+https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 
 #EXTINF:-1 tvg-id="Canal26HD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png",Canal 26 HD
 https://live-edge01.telecentro.net.ar/live/26hd-720/TelevisionLibre.m3u8
@@ -49,22 +47,25 @@ https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
 https://wisp.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TNTHDArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",TNT HD
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
+
+#EXTINF:-1 tvg-id="SonyChannelHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png",Sony HD
+https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
+
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/512px-Universal_TV_logo.svg.png",Universal HD
+https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/512px-TCM_Latam_logo.svg.png"TCM
 https://wisp.cdn.rcs.net.ar/mnp/tcm_hls/track_1_2000/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversalHDSouth.us" tvg-logo="https://i.imgur.com/piyOYME.png",Studio Universal HD
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
-
 #EXTINF:-1 tvg-id="StarChannelHDSouth.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/19.png",Star Channel
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 
 #EXTINF:-1 tvg-id="FXHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",FX HD
 https://wisp.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SpaceSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/512px-SpaceLogo.svg.png",Space HD
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
+https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-id="WarnerChannelHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",Warner HD
 https://wisp.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
