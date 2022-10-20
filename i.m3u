@@ -1,6 +1,10 @@
 #EXTM3U
 EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz"
 
+#EXTINF:-1 tvg-id="ElTreceHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png",TNT SPORTS M3 HD
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/master.m3u8?hdnea=st=1666286769~exp=1666287369~acl=/*~hmac=1db6fe122ddce2260719a5d88deda234835349dd5090ac77414693860374fdd3
+
+
 #EXTINF:-1 tvg-id="ElTreceHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png",El Trece HD
 https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 
