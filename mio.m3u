@@ -178,9 +178,9 @@ https://channel-goldenedge-cdn.blim.com/manifest.mpd
 https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=79205754b7f84a62661c2dbe9de5dd5d&key=f0e7f7d458990edfab7b98b412564615
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6795a303a9e8517fbca38376c0af2f76&key=1bdb317229066ad2d74c4814a138e136
 #EXTINF:-1 tvg-id="HBOPlusHDLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus HD
-https://edge-live17-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc_2A/HBO_Plus.mpd
+https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2a2aed17dc6050fb9dee6e65a06b3925&key=bac5818a6e1135db3c9f24fb752f699f
