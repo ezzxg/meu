@@ -281,6 +281,12 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #EXTINF:-1 tvg-id="ESPNPremiumHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN Premium (Flow)
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4cb49df341423cb597bf3e79b78f2a52&key=11ad69d2c84f41dbb520abfe38b19fe7
+#EXTINF:-1 tvg-id="ESPNPremiumHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN Premium (DTV2)
+https://dtvott-abc.akamaized.net/dash_live_1125/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4cb49df341423cb597bf3e79b78f2a52&key=11ad69d2c84f41dbb520abfe38b19fe7
 #EXTINF:-1 tvg-id="ESPNPremiumHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN Premium (DTV)
