@@ -49,6 +49,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Ca
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28
 #EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3281.png",Quiero Musica
 https://edge1-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
+https://edge-live17-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad
@@ -277,8 +278,13 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f48f9e79f54b38d619fd25565c4d14b&key=02828e6346a46e61e965202cd8787e3a
-#EXTINF:-1 tvg-id="ESPNPremiumHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN Premium
+#EXTINF:-1 tvg-id="ESPNPremiumHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN Premium (Flow)
 https://edge-live17-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4cb49df341423cb597bf3e79b78f2a52&key=11ad69d2c84f41dbb520abfe38b19fe7
+#EXTINF:-1 tvg-id="ESPNPremiumHD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN Premium (DTV)
+https://1125-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4ae10c2357e250e088bb8a5ab044dd50&key=e7f47e2b948e9222cf4d24b51881ec04
