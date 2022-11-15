@@ -246,6 +246,13 @@ nputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
 https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://ezclkey.rf.gd/results.php?keyid=66a61cf22e5956c49b89ecbc56049248&key=51fc45f5a6f184b9916631ac31f95653
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://cablevisionflow.com.uy/assets/img/contenidos/grilla-flow/espn.png",ESPN HD (DTV)
+https://dtvott-abc.akamaized.net/dash_live_1104/manifest.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://ezclkey.rf.gd/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
 #EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://cablevisionflow.com.uy/assets/img/contenidos/grilla-flow/espn.png",ESPN HD
