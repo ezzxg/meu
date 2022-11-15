@@ -40,7 +40,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/Am
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://ezclkey.rf.gd/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png",Cronica HD
-https://edge-live17-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
+https://edge-live17-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
