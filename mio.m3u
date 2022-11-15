@@ -44,7 +44,7 @@ https://edge-live17-sl.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/Cr
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca
+#KODIPROP:inputstream.adaptive.license_key=http://ezclkey.rf.gd/results.php?keyid=90422640d3e846159fa450f83870ed4a&key=abb3cd94aece1a462df25a8f21085cca
 #EXTINF:-1 tvg-id="ElDoce.ar" tvg-logo="https://eldoce.tv/sites/all/themes/c12t/images/og.image.jpg",El Doce Cordoba
 https://edge-live17-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
 
