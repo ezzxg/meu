@@ -40,12 +40,12 @@ https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=3b1b027dd011af20fd9956c16dc084fb&key=45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1 tvg-id="A24HD.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/512px-A24_%282019-1%29.png",A24 HD
-https://edge-vod01-sl.cvattv.com.ar/live/c6eds/America24/SA_Live_dash_enc_2A/America24.mpd
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=745e7abcc90d41ab706b2ac2f4371da3&key=50acd9d19d1361cb4a8a13a867bdc352
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png",Cronica HD
-https://edge-vod01-sl.cvattv.com.ar/live/c6eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
+https://edge-live31-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -122,14 +122,14 @@ https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=1fa6a86fd80b6d1425dde74482b5dc9c&key=744c3636d57a651ab444cf9fe5f95b33
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4ff7f7bd977b33189108629f0effaa4b&key=211e132997cd8646eedf3d1bfe00696a
 #EXTINF:-1 tvg-id="amc" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/97.png",AMC HD
-https://edge-vod01-sl.cvattv.com.ar/live/c6eds/AMC/SA_Live_dash_enc/AMC.mpd
+https://1007-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=9ab9c42c713e0fb5517dc77cc19d6755&key=d8c271b82387e609b6c19e5e79240aff
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fx_m.png",FX HD
-https://edge-vod01-sl.cvattv.com.ar/live/c6eds/FXHD/SA_Live_dash_enc/FXHD.mpd
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=391c137034f053938edbf26799549ddc&key=19d643d8a50b2f829c96a897f7df255d
@@ -144,7 +144,7 @@ https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinem
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.phpp?keyid=faad1722a575f4d9ec7b774db63c879c&key=cf0184830344ba36ad2ffef9dd2dd9d0
 #EXTINF:-1 tvg-id="TNTHDArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",TNT HD
-https://edge-vod01-sl.cvattv.com.ar/live/c6eds/TNT_HD_Arg/SA_Live_dash_enc_2A/TNT_HD_Arg.mpd
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=d9b541e3cd064d569843da42788d4263&key=bba5d26ad5051fb3f2cf7e3dd8a4a7d8
@@ -161,7 +161,7 @@ https://edge-vod01-sl.cvattv.com.ar/live/c6eds/WarnerHD/SA_Live_dash_enc_2A/Warn
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4ae10c2357e250e088bb8a5ab044dd50&key=e7f47e2b948e9222cf4d24b51881ec04
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=410c2357e250e088bb8a5ab044dd50&key=e7f47e2b948e9222cf4d24b51881ec04
 #EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",Golden HD
 https://channel-golden-cdn.blim.com/manifest.mpd
 
