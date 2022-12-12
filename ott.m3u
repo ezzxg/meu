@@ -19,14 +19,14 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/Am
 http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=d83e2e0cb9735bea9fc9f0b90cea1e14&key=4125e40800a08bbc66cf27756a5ab283
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=3c064bba1e374e5a381dd0a344f11cec&key=a9d19bca012ae84a6cd0395a7a4809f2
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",Telefe HD
-https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
+https://edge-live31-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=5f789ebbb6495578b42267b650574f62&key=0b37b263a0aca7b08f12014b2b7b9248
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TVP HD
-https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
+https://edge-live17-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
