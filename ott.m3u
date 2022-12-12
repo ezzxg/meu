@@ -275,9 +275,15 @@ https://1240-vos.dtvott.com/DASH/manifest.mpd
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
 
 nputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=bb0ecaa6ae62336197c64d4129c6a09d&key=cb0bba4522ffcd90a8b51541a0fcfae0
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=2fa59463176f3dc2964b91b4f7ae1d7c&key=81d5b95cc9057d6b0f85c78e6f0e41e7
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV Sports
-https://1057-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1057)/manifest.mpd
+https://1059-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1059)/manifest.mpd
+
+
+nputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=ab020a1710d630168de21698375a439c&key=235898cdb10b0cdba35ea2ce94fbb1fb
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png",DIRECTV Sports 2
+https://1063-ll-vos.dtvott.com/DASH_DASH/Live/channel(LL-Live_1063)/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
