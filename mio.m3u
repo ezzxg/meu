@@ -3,7 +3,7 @@ EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xm
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=8c4dcc8457624b6b8725867818b39a0d&key=a57a30beea1dc393624e4de2b2bbc6d6
-#EXTINF:-1 tvg-id="StarPlus" tvg-logo="https://megadeportes.live/img/logo-starplus.png",EVENTOS STAR+ 1
+#EXTINF:-1 tvg-id="StarPlus" tvg-logo="https://megadeportes.live/img/logo-starplus.png",EVENTOS STAR+ 12
 https://live-ftc-na-south-2.media.starott.com/clt2/va01/starplus/event/2023/01/07/Sheffield_Wednesday_vs_Ne_20230107_1673108724030/ctr-all-complete.m3u8
 
 
