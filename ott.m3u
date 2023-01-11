@@ -7,7 +7,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320ddef274b1b0007
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=06b3adfba9845c7c924704fd8b8dcd64&key=dccb2ff104df0bbc54de06b3c2786f5c
-#EXTINF:-1 tvg-id="StarPlus" tvg-logo="https://megadeportes.live/img/logo-starplus.png",STAR+ | PSG VS ANGERS 1
+#EXTINF:-1 tvg-id="StarPlus" tvg-logo="https://megadeportes.live/img/logo-starplus.png",STAR+ | PSG VS ANGERS 11
 https://dtvott-cbc.akamaized.net/dash_live_1100/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
