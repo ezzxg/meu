@@ -1,5 +1,5 @@
 #EXTM3U
-EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xml.gz"
+EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=91421ff0785d49de8e91d9ae60ef0361&key=d12d8e9d60992be3de577425caf422a2
