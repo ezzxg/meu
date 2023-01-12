@@ -165,6 +165,7 @@ https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc
 #EXTINF:-1 tvg-id="StarChannelHDSouth.us" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/star.webp",Star Channel HD
 https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775
 #EXTINF:-1 tvg-id="WarnerChannelHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",Warner HD
