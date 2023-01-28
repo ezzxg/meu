@@ -176,26 +176,8 @@ https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=069bd3f0b6c279467e08549f17bf5bd0&key=5afa7e369a6de1093818a85af912a775
-#EXTINF:-1 tvg-id="WarnerChannelHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",Warner HD
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/512px-Warner_TV_logo.svg.png",Warner HD
 https://edge-live31-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=410c2357e250e088bb8a5ab044dd50&key=e7f47e2b948e9222cf4d24b51881ec04
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",Golden HD
-https://channel-golden-cdn.blim.com/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4ae10c2357e250e088bb8a5ab044dd50&key=e7f47e2b948e9222cf4d24b51881ec04
-#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Golden_Plus_LA_2020.png",Golden Plus HD
-https://channel-goldenplus-cdn.blim.com/manifest.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4ae10c2357e250e088bb8a5ab044dd50&key=e7f47e2b948e9222cf4d24b51881ec04
-#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",Golden Edge HD
-https://channel-goldenedge-cdn.blim.com/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2
