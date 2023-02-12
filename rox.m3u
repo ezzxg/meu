@@ -209,12 +209,6 @@ https://1240-vos.dtvott.com/DASH/manifest.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=58e1ebe75d944f6a98ea67b1c7c0a572&key=1c311b069dbce31ce8e62a6e7e2433eb
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAxQOsaFV86FQjm94DyEyYmuaoiaZQiQ2dM3pMV4oeqog8wJZjXC9E3pa0frqe4BTh3VqiL2Ue6fUGVxS8WJAKdQViuq-a2MTvXDzN7ZpUynhiG9mDousdVry06wTEwAhpjlDTblo-qxCWP5POeyvdctEVyNOZWjuuXXfN8cfSrcW-dt09Ytfg04pa/w480/ver-tyc-sports-2-en-vivo.jpg",TyC Sports Internacional HD
-https://edge-live31-hr.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_2A/TyC_Internacional.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34
 #EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-logo="https://cablevisionflow.com.uy/assets/img/contenidos/grilla-flow/espn.png",ESPN HD
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
@@ -238,17 +232,6 @@ https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b
 #EXTINF:-1 tvg-id="FoxSports3Argentina.ar" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/362.png",FOX Sports 3 HD
 https://edge-vod03-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c4697bf458da52f8b96b36cce761d571&key=a4dee77615279c858b19e5bb69ab6755
-#EXTINF:-1 tvg-id="TNTSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png",TNT Sports (DTV)
-https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4cb49df341423cb597bf3e79b78f2a52&key=11ad69d2c84f41dbb520abfe38b19fe7
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png",ESPN Premium (DTV)
-https://1125-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=09a6c8a8048069f8c9770be4ac6192e3&key=d4b8be5953887ccae0e73c2719ccc2a3
