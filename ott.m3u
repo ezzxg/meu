@@ -106,6 +106,18 @@ https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Mu
 #EXTINF:-1 tvg-id="mtv00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b7
+#EXTINF:-1 tvg-id="mtv00" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.2.png.d54f2bb849f587115a9d8c3667a518d6.png",Flow XP
+https://edge-live01-mun.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_wl/Flow_Music_XP.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=f34cd7709f093d23d4db009107d96862&key=d8a829138d970b45e867c9733a31b2f0
+#EXTINF:-1 tvg-id="mtv00" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.2.png.d54f2bb849f587115a9d8c3667a518d6.png",Flow XP 1
+https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_wl/Flow_Music_1.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18
 #EXTINF:-1 tvg-id="NickMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",NickMusic
