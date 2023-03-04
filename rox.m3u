@@ -183,7 +183,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1148/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://i.imgur.com/CRExAD5.png",National Geographic HD
-https://edge-vod01-sl.cvattv.com.ar/live/c6eds/NatGeoHD/SA_Live_dash_enc_2A/NatGeoHD.mpd
+https://edge-vod03-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c283c84a7af0d7c8b9b612a8fb22a001&key=f45510c721eebd6eaa86a2e16ccbd77d
