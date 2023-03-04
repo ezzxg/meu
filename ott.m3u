@@ -9,12 +9,10 @@ https://siloh-sp.plutotv.net/lilo/production/GranHermano/J8473924d9c83s484758d94
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png",El Trece HD
 https://edge-vod03-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=24f4ff211136ae6512a1b552200db405&key=602122f8426c5c942b8c18d299cc6020
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://www.seekpng.com/png/full/345-3453836_ar-canal-9-el-nueve-el-nueve-logo.png",El Nueve HD
 https://edge-vod03-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=8ea235ce0826408b221c498115a9b62d&key=7aa9266ed91ea4510483370029dfcf45
@@ -33,7 +31,6 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/Telefe
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",TVP HD
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=b363e35a5075589983fec4e2f74f90b9&key=8f7c53bfe02df34d253eb61e7d01ae79
@@ -74,9 +71,19 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=ac3ae78beb64478ab390b4ad70e3e0c9&key=c7d669761c3516d852a0edf9e07c9198
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png",Encuentro HD
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=576b5361b6273d2fbb14aae6e8eb646a&key=1e0c5591f570116dbf9f22da26d17226
 #EXTINF:-1 tvg-id="Telemundo.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",Telemundo Internacional
 https://1217-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=1e1ad422a6714482b66fa702c16e50c6&key=4fdf28a0ab91356ca55a75f4e9bf8c92
+#EXTINF:-1 tvg-id="Telemundo.ar" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png",Antena 3
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=a354b0c82a3a720c4a6f52ed5a1190f4&key=45a76dcc84f058cfabc8b958d7303b28
@@ -183,6 +190,21 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=391c137034f053938edbf26799549ddc&key=19d643d8a50b2f829c96a897f7df255d
 #EXTINF:-1 tvg-id="SonyMoviesHDPanregional.us" tvg-logo="https://i.imgur.com/1uTtTfJ.png",Sony Movies HD
 https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=f23601997bc024ea96b6b9d1e2b8b3fc&key=521a2cfdd3f649a9543422dc41fa4ca0
+#EXTINF:-1 tvg-id="SonyMoviesHDPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",Golden
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=98aa90cb620b972a0d0d66a51cdaca56&key=6e8bd53378356ed7f5103d91efb5e54e
+#EXTINF:-1 tvg-id="SonyMoviesHDPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png",Golden Edge
+https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.licensehttps://ezzdecode.webcindario.com/results.php?keyid=ea0a062b63b4b0a58b35e10c02bf0ab9&key=4cc4d32453d2d29831b0a733d2763f69
+#EXTINF:-1 tvg-id="SonyMoviesHDPanregional.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es",Golden Plus
+https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=977928a92b82ba3781741a6470f8f45b&key=51f4e62827c128f7210b79a11587661a
