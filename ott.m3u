@@ -284,6 +284,16 @@ https://edge-vod03-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoH
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/DiscoveryHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",Discovery World HD
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=46ba409fb04e40fb86b466d97e3a9588&key=f129fb9b5d213e20e2abe529b8cf2597
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://1.bp.blogspot.com/-KBWuCQDL34g/X8LTLVD1eWI/AAAAAAAA7Y4/phYhV6KEyT4Yrr9ZfH2e3v6SJEDVXqQOQCLcBGAsYHQ/s0/Discovery_Science-2012.png",Discovery Science HD
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_2A/Discovery_Science.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=d32d815d1f7f5325ba73562534662c92&key=75e66a4ed7880c71655d24e52cad3bd3
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/512px-Discovery_Turbo_logo.svg.png",Discovery Turbo HD
 https://dtvott-cbc.akamaized.net/dash_live_1081/manifest.mpd
