@@ -135,11 +135,6 @@ https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_wl
 https://edge-live01-mun.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_wl/Flow_Music_2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=32f9a916c608249e90f1c236c8d382fa&key=bdde7d4f46ba9504900b3dad286369dc
-#EXTINF:-1 tvg-id="mtv00" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.2.png.d54f2bb849f587115a9d8c3667a518d6.png",Flow XP 3
-https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc_wl/Flow_Music_3.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18
 #EXTINF:-1 tvg-id="NickMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",NickMusic
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Nickmusic/SA_Live_dash_enc_2A/Nickmusic.mpd
@@ -202,11 +197,6 @@ https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
 https://live3-ott.izzigo.tv/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.licensehttps://ezzdecode.webcindario.com/results.php?keyid=ea0a062b63b4b0a58b35e10c02bf0ab9&key=4cc4d32453d2d29831b0a733d2763f69
-#EXTINF:-1 tvg-id="SonyMoviesHDPanregional.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es",Golden Plus
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-HD/default.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=977928a92b82ba3781741a6470f8f45b&key=51f4e62827c128f7210b79a11587661a
 #EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",Cinemax HD
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_2A/Cinemax.mpd
@@ -235,33 +225,6 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/War
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=a5f44a5e30714cf3bcee7c7f15a08b4e&key=c3c141ae941ab9750339c3af45a65ce2
 #EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png",TCM
 https://edge-vod03-hr.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_2A/TCM.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=99eefc068db3509b9f0cf5b34114219d&key=6c23e31a4d83b568e84aec609a63ebc9
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
-https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=6795a303a9e8517fbca38376c0af2f76&key=1bdb317229066ad2d74c4814a138e136
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus HD
-https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=2a2aed17dc6050fb9dee6e65a06b3925&key=bac5818a6e1135db3c9f24fb752f699f
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://i.imgur.com/BS16Dmx.png",HBO 2 HD
-https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=d504011bbef467c0de3a7534e302a6d4&key=334103e2abe16faa7f9ab2e3097c5a58
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png",HBO Xtreme HD
-https://edge-vod01-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=f4e1ce5cef7e9a110fe968f8881b21fa&key=6bbe2062b150b11496cdd5fbdd9c89d6
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP HD
-https://edge-vod03-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=db12035627a4b3d7198b761f36b4a290&key=80ca761a875992ac0e50b0851d5563fe
@@ -374,9 +337,3 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/Eventos_4K_HD/SA_Live_dash_enc_2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/b1rzvQY_FicOc5EfC4agBbNR7Q-gkMdrXLJpChvJqVCjx6z-ZPL4QFytAgJrOyKoSlc",EVENTOS FLOW
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
-
-#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Playboy_logo.svg/1200px-Playboy_logo.svg.png",Playboy HD
-https://cdncentury-playboyhd.zolechamedia.net/vs1107-3007.m3u8
-
-#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png",Venus HD
-https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
