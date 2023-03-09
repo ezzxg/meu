@@ -30,6 +30,11 @@ https://edge-live31-hr.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/Telefe
 https://edge-live17-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4f1235069d34c22cb73d9b78bae15587&key=55e068ff6b152e34c66dc639b38e8692
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",Ciudad Magazine
+https://edge-vod03-hr.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_2A/Magazine.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=b363e35a5075589983fec4e2f74f90b9&key=8f7c53bfe02df34d253eb61e7d01ae79
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/512px-TN_todo_noticias_logo.svg.png",TN HD
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
