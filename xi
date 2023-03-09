@@ -342,3 +342,9 @@ https://edge-live31-hr.cvattv.com.ar/live/c7eds/Eventos_4K_HD/SA_Live_dash_enc_2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/b1rzvQY_FicOc5EfC4agBbNR7Q-gkMdrXLJpChvJqVCjx6z-ZPL4QFytAgJrOyKoSlc",EVENTOS FLOW
 https://edge-live15-sl.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
+
+#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Playboy_logo.svg/1200px-Playboy_logo.svg.png",Playboy HD
+https://cdncentury-playboyhd.zolechamedia.net/vs1107-3007.m3u8
+
+#EXTINF:-1 tvg-id="Playboy.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png",Venus HD
+https://cdncentury-venushd.zolechamedia.net/playlist.m3u8
