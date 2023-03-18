@@ -167,7 +167,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/Cin
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=4ff7f7bd977b33189108629f0effaa4b&key=211e132997cd8646eedf3d1bfe00696a
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4ff7f7bd977b33189108629f0effaa4b&key=211e132997cd8646eedf3d1bfe00696a
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/97.png",AMC HD
 https://1007-vos.dtvott.com/DASH/manifest.mpd
 
