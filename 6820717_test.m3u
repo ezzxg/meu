@@ -99,17 +99,17 @@ https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c9eb3ead38a122ac460ad96a8ebfd2e&key=66bfbfa4449eb8bc1bcf7577d5bffaad
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",MTV HD
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=61008dfc867544cd872de99b1f2b82cf&key=716449756316b91c54803aaa22a2fbf0
 #EXTINF:-1 tvg-id="MTVHits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/2089px-MTV_Hits_2017_logo.svg.png",MTV HITS
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc_2A/MTV_Hits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=daecef5fe32f4ce083c6a0c692755d6a&key=d4227f24389a9ba77293214b93eb0d7d
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png",HTV
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 
