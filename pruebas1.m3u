@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="SonySix.in" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-six-in.png" group-title="Sport",Sony Six HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d83e2e0cb9735bea9fc9f0b90cea1e14:4125e40800a08bbc66cf27756a5ab283
+https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
