@@ -123,22 +123,6 @@ https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_2A/Mu
 #EXTINF:-1 tvg-id="mtv00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png",MTV 00
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/MTV00/SA_Live_dash_enc_2A/MTV00.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=b2aae44a74144be8b2118e20d1412bab&key=8a7ae996d12d8d5d5637d1044f8e08b7
-#EXTINF:-1 tvg-id="mtv00" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.2.png.d54f2bb849f587115a9d8c3667a518d6.png",Flow XP
-https://edge-live01-mun.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc_wl/Flow_Music_XP.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=f34cd7709f093d23d4db009107d96862&key=d8a829138d970b45e867c9733a31b2f0
-#EXTINF:-1 tvg-id="mtv00" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.2.png.d54f2bb849f587115a9d8c3667a518d6.png",Flow XP 1
-https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc_wl/Flow_Music_1.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=596b599580b39ae2f3c413f7eae36902&key=2d7e3d5d31f68690fd877a111f84e8e3
-#EXTINF:-1 tvg-id="mtv00" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/large.2.png.d54f2bb849f587115a9d8c3667a518d6.png",Flow XP 2
-https://edge-live01-mun.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc_wl/Flow_Music_2.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=eae6c12ccab349e6ae675ab6ed8a476c&key=4a4fd86ea9db4417ec86c237d3111b18
 #EXTINF:-1 tvg-id="NickMusic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",NickMusic
@@ -162,7 +146,7 @@ https://edge-vod03-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/N
 https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0942e4ecd1bd3567e8f9447f45c20a12&key=efca6264f04cf7373de0c30ec79fe909
 #EXTINF:-1 tvg-id="SpaceSouth.us" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/4535.png",Space HD
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 
@@ -172,7 +156,7 @@ https://edge-live31-hr.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=6003e92dd0d9f548329015c9e15dd578&key=213cf85cb5f9fe569757004a77e05948
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/ezzxg/meu/main/cin3c4n4l.json
 #EXTINF:-1 tvg-id="CinecanalSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/512px-CinecanalLA.png",CineCanal HD
 https://edge-live31-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd
 
