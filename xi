@@ -5,6 +5,11 @@ EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/directv.com.ar.epg.xm
 https://siloh-sp.plutotv.net/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master_1.m3u8?1837363
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d83e2e0cb9735bea9fc9f0b90cea1e14&key=4125e40800a08bbc66cf27756a5ab283
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png",Telefe DTV
+https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png",El Trece HD
 https://edge-vod03-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
