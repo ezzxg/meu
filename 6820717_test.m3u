@@ -221,7 +221,7 @@ https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/03/1
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsportp.webp",ESPN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4cb49df341423cb597bf3e79b78f2a52:11ad69d2c84f41dbb520abfe38b19fe7
-https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
+https://1125-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/tntsport.webp",TNT Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
