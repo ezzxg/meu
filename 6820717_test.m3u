@@ -213,6 +213,11 @@ https://1103-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=5222bd8c2898593982fc2550e493aa69:59b269b80becd036307a605d9938160f
 https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/starplus.webp",Star+ 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d06ed06cddac4b7badaf39068c6d5fba:b99308ac3285f111cfa2b15fbdb032e5
+https://live-ftc-na-south-2.media.starott.com/gru1/qb01/starplus/event/2023/03/19/PSG_vs_Rennes_20230319_1679235643077/ctr-all-complete.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsportp.webp",ESPN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4cb49df341423cb597bf3e79b78f2a52:11ad69d2c84f41dbb520abfe38b19fe7
