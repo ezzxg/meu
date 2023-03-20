@@ -33,7 +33,7 @@ https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b363e35a5075589983fec4e2f74f90b9:8f7c53bfe02df34d253eb61e7d01ae79
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Canal_26_logo_%282022%29.svg",Canal 26
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fc26.png?alt=media&token=2275628c-c86a-41d5-aa64-520c030c071c",Canal 26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9b16848f75455e38de2e5147630d649:36b5197a88db652d63e50211fa5e05d1
 https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd
@@ -57,6 +57,21 @@ https://1165-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=870e324e46175362b1de8a492cbdb383:684e104109841eb5f7cd645efc977011
 https://dtvott-abc.akamaized.net/dash_live_1183/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Ftooncast.webp?alt=media&token=e3385554-f346-4743-9255-c7e63e96f3ab",Tooncast
+https://edge-vod01-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d0c49778bc451d2b5ea44346e72a85d:d5d5ed40788e07eaf3b0616b6abc9e1e
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fdisney.webp?alt=media&token=3822908a-b346-470f-89ac-065008632a4e",Disney Channel
+https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
+#EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fnick.webp?alt=media&token=16ce5256-d91b-4763-a706-30f17718f6f0",Nick HD
+https://edge-vod03-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/diskids.webp",Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
