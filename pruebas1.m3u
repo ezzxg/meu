@@ -13,7 +13,7 @@ https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d14fca550adb5b75bb34f0c42aa281dd:6f76634b14e243f1bcee1c5fcd8a393c
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/292.png",TV Publica
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Ftvpublica.webp?alt=media&token=116d82d1-dd62-4434-8fc5-f11d06734604",TV Publica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f789ebbb6495578b42267b650574f62:0b37b263a0aca7b08f12014b2b7b9248
 https://dtvott-abc.akamaized.net/dash_live_1156/manifest.mpd
@@ -257,3 +257,16 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9bc6a1c64e05c35aa72e12b16d35247:07c1735adac15de877df3f81b4fc4731
 https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fdtvsports2.webp?alt=media&token=80938727-e00f-47fc-99f5-cca496769403",DirecTV Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb
+https://1063-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fdtvsportsplus.webp?alt=media&token=2fb8de8a-b451-46a2-999b-e28ede5e92f6",DirecTV Sports +
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
+https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fbeinsports.webp?alt=media&token=b65dcb70-0961-4cd3-ba8e-d8a782f5bc2a",beIN Sports Ñ XTRA
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
