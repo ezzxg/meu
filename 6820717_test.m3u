@@ -228,10 +228,10 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 #KODIPROP:inputstream.adaptive.license_key=c4697bf458da52f8b96b36cce761d571:a4dee77615279c858b19e5bb69ab6755
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://asdlogues.pages.dev/webp/logos/optimized/starplus.webp",FRANCIA VS PAISES BAJOS
+#EXTINF:-1 tvg-logo="https://asdlogues.pages.dev/webp/logos/optimized/starplus.webp",Leyendas del Villareal vs Leyendas de España
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=7dcb66746b803c7e9cf9b1a0b97fc308:6f1d49a343be947ad732553bf7ff052c
+https://0040-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
