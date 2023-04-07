@@ -247,8 +247,8 @@ https://1240-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",FOX Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76be81041e7133a38457f097d2b0041c:8ced846c9effd56d7e2a9276224bb3c5
-https://1118-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ad99f6512d50476639052a8fe8a4676:5ff3bee4cff05d3400d7ea60fcc93235
+https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsport2.webp",FOX Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -257,18 +257,18 @@ https://dtvott-cbc.akamaized.net/dash_live_1122/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp",ESPN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=534d488852b3330284307d1a3ca0fd3b:2d1d2a12454b682df197ff26ff5253a5
-https://1109-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+https://edge-live01-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn2.webp",ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=933de8e915535ae18c2558a5a76318c9:e1fc1eed4eae83e0dc1b3705cb62ca64
-https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:d4b8be5953887ccae0e73c2719ccc2a3
+https://edge-live01-mun.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc_2A/ESPN2_Arg.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp",ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f91c485f605b337cab75d446604d5dfc:933c006497039ce8b345d53a1131d8c4
-https://1103-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+https://edge-live01-mun.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn4.webp",ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -282,13 +282,18 @@ https://1125-vos.dtvott.com/DASH/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f48f9e79f54b38d619fd25565c4d14b:02828e6346a46e61e965202cd8787e3a
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsportp.webp",ESPN Premium (Full HD)
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsportp.webp",ESPN Premium (FULL HD)
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/tntsport.webp",TNT Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4697bf458da52f8b96b36cce761d571:a4dee77615279c858b19e5bb69ab6755
 https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/tntsport.webp",TNT Sports (FULL HD)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfc6585bd311dc5f8815db12270122b6:7fdb253bf4a74a3187d85f6f293f5e1a
+https://edge-live01-mun.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fdtvsports.webp?alt=media&token=67a24648-6ab9-465e-896a-6a941337ab13",DirecTV Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -300,18 +305,10 @@ https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb
 https://1063-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Ftudn.png?alt=media&token=4a6808c8-ed72-4af5-93cd-fb28aab96f80",TUDN (MX/USA)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=640141acf2d730426e0b01275bc9e412:7e1ecf704c682802f74ddda3e68c4c38
-https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
-
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fdtvsportsplus.webp?alt=media&token=2fb8de8a-b451-46a2-999b-e28ede5e92f6",DirecTV Sports +
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fbeinsports.webp?alt=media&token=b65dcb70-0961-4cd3-ba8e-d8a782f5bc2a",beIN Sports Ñ XTRA
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fvenus_morado.png?alt=media&token=643e9923-24a3-4254-af3f-31cf8038e8f3",Venus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
