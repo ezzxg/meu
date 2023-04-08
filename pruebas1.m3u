@@ -176,6 +176,31 @@ https://1077-vos.dtvott.com/DASH/manifest.mpd
 https://dtvott-cbc.akamaized.net/dash_live_1234/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce0a7c883e2a5430bba97a3d68e0daf8:e30dd4908e667637369dfb6582f54d64
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalcinema.webp",Universal Cinema
+https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252ddb6e79dd5351bb95eac1115d4191:f2051f38612f0a71cde7174a3c6c4526
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalcomedy.webp",Universal Comedy
+https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2402ee3736c56b3bd5d50acf2300961:329937e5d236a35ffe91d6cd7125becc
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalcrime.webp",Universal Crime
+https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d080be28a0fc5970bf1de897f80d40bd:ab8187d50d311d30bc0d7dc6eb5697d1
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalpremiere.webp",Universal Premiere
+https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0402ba07dad5b0cb227af248ea2c5ee:ab463fb78e7e17b5e0ee4ea8bca35ec9
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/universalreality.webp",Universal Premiere
+https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO HD
 https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
