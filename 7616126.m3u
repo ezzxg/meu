@@ -1,9 +1,6 @@
 
-#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",STAR+ BOCA VS PEREIRA HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.h8wIrBLNb3qp.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvaDh3SXJCTE5iM3FwIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTY4MTg2NDYzNn0.DIHbPA9kkWxk9B5ySCBzWtf68voyoeFB9G1Vpz4PIXgJhecN9gtV-yNw24aacxGLrhrdtnj6-zybsdN7MKDsf4Pt2anfmNZpFVn6gX2CCLCfKapqmZqDF4hNkm-D5pmQ&player_version=1.14.0
-
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo-5.png",Conmebol Libertadores [Pluto y Telefe]
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
