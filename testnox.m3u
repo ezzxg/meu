@@ -106,6 +106,16 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a8093cdcb2d504bd38f16764bd21b6e5:bfcf3b033b5f0b5ae020751a6746326f
 https://edge-vod01-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/pasiones.webp",Pasiones
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d45aaa733900339cbdbebebc392dba28:3eea88ae8d0e43f0aaea586f48b851d1
+https://1182-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/pasiones.webp",El Gourmet
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed
+https://edge-vod01-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png",MTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74d426155d66366e97dc3a95d406dc03:049cb061d1e683a01504192e5f8e90cb
@@ -396,9 +406,3 @@ https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ac8dd7d48545bc881091ee1bbecaf42:9787ea06df2f063245bbda4a738e51cc
 https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fvenus_morado.png?alt=media&token=643e9923-24a3-4254-af3f-31cf8038e8f3",Venus
-https://github.com/ezzxg/aptv/raw/gh-pages/0509-web.mp4
-
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fplayboy.webp?alt=media&token=c6cab720-f70d-4bc5-8275-0740874eb39d",PlayBoy
-https://github.com/ezzxg/aptv/raw/gh-pages/0509-web.mp4
