@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",EVENTO STAR
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-032/stream.mpd
-
-
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d83e2e0cb9735bea9fc9f0b90cea1e14:4125e40800a08bbc66cf27756a5ab283
@@ -38,6 +32,11 @@ https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b363e35a5075589983fec4e2f74f90b9:8f7c53bfe02df34d253eb61e7d01ae79
 https://dtvott-abc.akamaized.net/dash_live_1225/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/a24.webp",A24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40aa8a3467fc5790a5779a21908b4a75:f41dcd5bb111b6ebc9559741d98b7b81
+https://dtvott-abc.akamaized.net/dash_live_1009/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fc26.png?alt=media&token=2275628c-c86a-41d5-aa64-520c030c071c",Canal 26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -111,7 +110,7 @@ https://edge-vod01-hr.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mp
 #KODIPROP:inputstream.adaptive.license_key=d45aaa733900339cbdbebebc392dba28:3eea88ae8d0e43f0aaea586f48b851d1
 https://1182-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/pasiones.webp",El Gourmet
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/gourmet.webp",El Gourmet
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed
 https://edge-vod01-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd
