@@ -126,11 +126,6 @@ https://edge-vod03-hr.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
 https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d0c49778bc451d2b5ea44346e72a85d:d5d5ed40788e07eaf3b0616b6abc9e1e
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fdisney.webp?alt=media&token=3822908a-b346-470f-89ac-065008632a4e",Disney Channel
-https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
 #EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fnick.webp?alt=media&token=16ce5256-d91b-4763-a706-30f17718f6f0",Nick HD
 https://edge-vod03-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
@@ -163,7 +158,7 @@ https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/pakapaka.webp",Paka Paka
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
-https://edge-vod01-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",AE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -282,6 +277,11 @@ https://1019-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=4ff7f7bd977b33189108629f0effaa4b:211e132997cd8646eedf3d1bfe00696a
 https://1007-vos.dtvott.com/DASH/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/sony.webp",Sony Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1010b99fb124540aaa475a41259751eb:1975c6bcc9566a6e94ab263dc8f04b57
+https://dtvott-cbc.akamaized.net/dash_live_1190/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/sonymovies.webp",Sony Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=391c137034f053938edbf26799549ddc:19d643d8a50b2f829c96a897f7df255d
@@ -296,6 +296,11 @@ https://1054-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bdcf12a2d68305db6c5a1521efd11c7:ff22ccb2e8b75305f634ec90d18dc01c
 https://1227-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/tntseries.webp",TNT Series
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ccb8af4a878570d8878921b84abee19:a7ebe0cc1da69dcc300f19f7b4a628c7
+https://dtvott-cbc.akamaized.net/dash_live_1229/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/cinecanal.webp",Cinecanal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -437,8 +442,14 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
 
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/OnDIRECTV_Latin_America_2018.svg/revision/latest/scale-to-width-down/250?cb=20201021124719&path-prefix=es",ON DIRECTV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fvenus_morado.png?alt=media&token=643e9923-24a3-4254-af3f-31cf8038e8f3",Venus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
+https://edge-vod06-sl.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc_2A/Venus.mpd
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fplayboy.webp?alt=media&token=c6cab720-f70d-4bc5-8275-0740874eb39d",PlayBoy
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
+https://edge-vod06-sl.cvattv.com.ar/live/c6eds/Playboy//SA_Live_dash_enc/Playboy.mpd
 #KODIPROP:inputstream.adaptive.license_key=7ac8dd7d48545bc881091ee1bbecaf42:9787ea06df2f063245bbda4a738e51cc
 https://dtvott-abc.akamaized.net/dash_live_1066/manifest.mpd
