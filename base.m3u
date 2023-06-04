@@ -424,8 +424,8 @@ https://1134-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fdtvsports.webp?alt=media&token=67a24648-6ab9-465e-896a-6a941337ab13",DirecTV Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9bc6a1c64e05c35aa72e12b16d35247:07c1735adac15de877df3f81b4fc4731
-https://dtvott-cbc.akamaized.net/dash_live_1060/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=bb0ecaa6ae62336197c64d4129c6a09d:cb0bba4522ffcd90a8b51541a0fcfae0
+https://1057-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fdtvsports2.webp?alt=media&token=80938727-e00f-47fc-99f5-cca496769403",DirecTV Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -436,6 +436,7 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/OnDIRECTV_Latin_America_2018.svg/revision/latest/scale-to-width-down/250?cb=20201021124719&path-prefix=es",ON DIRECTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
