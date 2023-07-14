@@ -415,7 +415,7 @@ https://dtvott-abc.akamaized.net/dash_live_1233/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/tntsport.webp",TNT Sports (FULL HD)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfc6585bd311dc5f8815db12270122b6:7fdb253bf4a74a3187d85f6f293f5e1a
-https://edge-live01-mun.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+https://edge-live15-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62JHztG.png",F1 DAZN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
