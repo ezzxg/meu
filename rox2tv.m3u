@@ -62,6 +62,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
+#EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="",Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
 #EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="",Neox TV
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
 
@@ -86,6 +89,58 @@ https://edge-vod03-hr.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mp
 #KODIPROP:inputstream.adaptive.license_key=ce8f86d2f0d1638574237ada8ac2e82a:642772ebf1832f1f2fa58cb7e8fcfd05
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/canal13cl.webp",Canal 13 Chile
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0141f7c4c5b3b9fb023c229aa78f66e:fbb6d022cde627f2ebc3891735af5dd5
+https://1030-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/canal10.webp",Canal 10 Uruguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dd34782d754f8fcb1e8b38da9ffad0b:6fb97467c0f0ea13f86d41a70e029c51
+https://edge-vod03-hr.cvattv.com.ar/live/c4eds/Canal10_URU/SA_Live_dash_enc_2A/Canal10_URU.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/canal4uy.webp",Canal 4 Uruguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dabefaac89742589778fcfab78f08354:896dd914683b01c8044ffd34d7b6416b
+https://edge-vod03-hr.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/telefuturo.webp",Telefuturo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d2731cf8a59b73438ef59d88cd882bf:3f412fa6368b7db4903588de695377e1
+https://edge-vod03-hr.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/paravision.webp",Paravision
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd8e8c9b32ef027e8ff4ff0cfce855a4:2918e9893b570c3fa1f215b52a12cc91
+https://edge-vod03-hr.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/caracoltv.webp",Caracol Television
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=590eab6833d435ff94cc9a5af93a4319:5e73fb08358db634dfb919d853cec46f
+https://dtvott-akaws.akamaized.net/live_1035/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/rcn.webp",RCN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fad9eaf7a980300686af7809c0377a00:0d270d4c1ef2a319aeaf2f424e9b1442
+https://1185-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/cnnes.webp",CNN En Español
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd
+
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/antena3.webp",Antena 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
+
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/teleamazonas.webp",Teleamazonas
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=806e76a83b73357a96e1446ad152ff71:002babbb1c5869a0f2f8f34b711700c6
+https://1214-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2FMega.png?alt=media&token=b385afd2-012e-4585-b8cf-e175326e9823",MEGA
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
@@ -109,10 +164,35 @@ https://edge-vod03-hr.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hit
 #KODIPROP:inputstream.adaptive.license_key=870e324e46175362b1de8a492cbdb383:684e104109841eb5f7cd645efc977011
 https://dtvott-abc.akamaized.net/dash_live_1183/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/musictop.webp",MusicTop
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VS45Odu.png",RetroPlus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png",Rewind
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ex3G7AC.png",Recuerdos Retro TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dJBzOfB.png",Latin Zone TV
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/htv.webp",HTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 https://edge-vod03-hr.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_2A/HTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N1xKM5M.png",Paka Paka
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
+https://edge-vod03-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/cn.webp",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
+https://edge-vod03-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
@@ -148,11 +228,6 @@ https://dtvott-abc.akamaized.net/dash_live_1084/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a07d8bfe2f9956f28ca11466b4f520d5:11fdd8900d1eba9a6c95551f418dbf07
 https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/pakapaka.webp",Paka Paka
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
-https://edge-vod03-hr.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png",AE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -388,6 +463,11 @@ https://dtvott-abc.akamaized.net/dash_live_1099/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
 https://edge-live01-mun.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn4.webp",ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5222bd8c2898593982fc2550e493aa69:59b269b80becd036307a605d9938160f
+https://dtvott-cbc.akamaized.net/dash_live_1119/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsportp.webp",ESPN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
