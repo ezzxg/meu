@@ -13,6 +13,16 @@ https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d14fca550adb5b75bb34f0c42aa281dd:6f76634b14e243f1bcee1c5fcd8a393c
 https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vxQjMY6.png",BravoTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jol4MlF.png",Ciudad Magazine
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd
+
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Ftvpublica.webp?alt=media&token=116d82d1-dd62-4434-8fc5-f11d06734604",TV Publica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f789ebbb6495578b42267b650574f62:0b37b263a0aca7b08f12014b2b7b9248
@@ -27,6 +37,11 @@ https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63bb90afe7a55cabb01fcac205353b25:26c36505b2a3454201dcc8370de0ee07
 https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9STIUvO.png",A24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 #EXTINF:-1 tvg-logo="https://cablevisionflow.com.uy/assets/img/contenidos/grilla-flow/TN%20HD.png",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -53,6 +68,31 @@ https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tavsbBi.png",Telefe Cordoba
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQGgGsa.png",Canal 8 Tucuman
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmTpAnC.png",Telefe Rosario
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ibJYED.png",Telefe Salta
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qxv6mcn.png",Telefe Neuquen
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
+https://edge-live16-sl.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
+
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="",Canal 10 Cordoba
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
@@ -65,14 +105,18 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="NeoTV.ar" tvg-logo="https://i.imgur.com/Xtu85tb.png" group-title="",Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-id="NeoxTV.ar" tvg-logo="https://i.imgur.com/eIX71c9.png" group-title="",Neox TV
-https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/g4KBnqF.png" group-title="Movies",NET TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
 
 #EXTINF:-1 tvg-id="Canal9Multivision.ar" tvg-logo="https://i.imgur.com/2WFGiCh.png" group-title="",Canal 9 Multivision
 https://panel.dattalive.com/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Movies",Cine.Ar
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fteledoce.webp?alt=media&token=2874373a-98ef-4254-99a6-58efe085535c",Teledoce
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -426,7 +470,7 @@ https://dtvott-cbc.akamaized.net/dash_live_1181/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=74d17a4921b95d02951c17d173d1c57c:8d580b4abd03d44d7b15bdfe7f755fd4
 https://dtvott-abc.akamaized.net/dash_live_1244/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/tbs.webp",TBS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNcRZFb.png",TNT Novelas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eb2c18bed652cc93c875cebb9af40e:841820d2663bab26e01a4bdcbf71e443
 https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd
@@ -438,6 +482,16 @@ https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d45b79d4487343589058ab49ddf8cf0:aa7f95f71a3cfe40aa59904f9285af72
 https://1240-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qo70JD6.png",DeporTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbd4301ab0af3681be89ccdee78859cc:9e33db27eb3e5a15b5bf3b8b33e297cc
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TnnmZP1.png",Garage TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/fsport.webp",FOX Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -504,6 +558,11 @@ https://dtvott-abc.akamaized.net/dash_live_1171/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1b9984dc66b259fe8ae597cb4fc1f4c3:fdbbf5a39109349d7b6a997e83fb9e4b
 https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7OnVv8y.png",VTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yegv2nc.png",Liga 1 Max 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6e911d6408a45f37aac33bd040beec7e:fb9c4a1d15bf6c8c43031bc18c86d095
@@ -528,6 +587,42 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1pzIXQH.png",ESPN Deportes USA
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uIfPjw5.png",Claro Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=74cdcb63ff3e4f3ce4da4243b6d1e1d8:9b8366fa8e9ebcdf4b349d6c9d528115
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Sfa3aU.png",PREMIERE BR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50653a20839a57c8b2d3cde6ddc46cdb:892cc6b38a57fc61c20a1b48592a7412
+https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Sfa3aU.png",Eventos PREMIERE BR 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fc08bc02c90500ba511d93a54d261c4:184832a5c70ebffcbc42c0243df398f3
+https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyWRcnx.png",ESPN Extra MX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=457942dd5b773c8cafad4f486867cde4:d5a09694df94467f59aa46e24537d216
+https://1261-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnDsBdN.png",FOX Sports 1 (MX)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5804b7a24ca1303d8511b6d49278610c:fc0a63fd4fb80fd67ad25646857082f5
+https://1117-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Vl4AWE.png",FOX Sports 3 (MX)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=165f0bfa5239548081e4e27f8410d6e6:9a7f5e8618468a045494cbb875287464
+https://dtvott-cbc.akamaized.net/dash_live_1124/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fvenus_morado.png?alt=media&token=643e9923-24a3-4254-af3f-31cf8038e8f3",[+18] Venus (Pedir Activacion)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
