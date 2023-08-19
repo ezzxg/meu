@@ -1,5 +1,10 @@
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/bVdDoBL.png" group-title="",EVENTOS MLS
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/bVdDoBL.png" group-title="",MLS Eventos 1
 https://github.com/ezzxg/users-4413/raw/main/test.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/bVdDoBL.png" group-title="",MLS Eventos 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e55fb5570e4d3cb2a0a5f416f724cc:4a0855e2faf54910e3bb0eed58111ec8
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(77033-TUDNUH)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
