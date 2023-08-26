@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/bVdDoBL.png" group-title="",MLS Eventos 1
-https://github.com/ezzxg/users-4413/raw/main/test.m3u8
-
-#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/bVdDoBL.png" group-title="",MLS Eventos 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4e55fb5570e4d3cb2a0a5f416f724cc:4a0855e2faf54910e3bb0eed58111ec8
-https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(77033-TUDNUH)/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d83e2e0cb9735bea9fc9f0b90cea1e14:4125e40800a08bbc66cf27756a5ab283
@@ -102,10 +94,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Te
 https://edge-live16-sl.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="",Canal 10 Cordoba
-https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="13MaxTelevision.ar" tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="General",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -214,17 +203,23 @@ https://dtvott-abc.akamaized.net/dash_live_1183/manifest.mpd
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/musictop.webp",MusicTop
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VS45Odu.png",RetroPlus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="BajoCero.cl" tvg-logo="https://i.imgur.com/3Nxe23t.png" group-title="",Portal Mix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png",Rewind
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BajoCero.cl" tvg-logo="https://i2.paste.pics/3caab16270214727377ff0994bb64031.png" group-title="",Bajo Cero HD
+https://stmv2.zcasthn.com.br/bajocerotv/bajocerotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="telemusica.cl" tvg-logo="https://i.imgur.com/1cnYQbC.png" group-title="",Telemusica
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
+
+#EXTINF:-1 tvg-id="toplatino.cl" tvg-logo="https://i.imgur.com/uT8N1mA.png" group-title="",TOP Latino
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vintagemusic.cl" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="",Vintage Music
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ex3G7AC.png",Recuerdos Retro TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dJBzOfB.png",Latin Zone TV
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/htv.webp",HTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -486,10 +481,8 @@ https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4d45b79d4487343589058ab49ddf8cf0:aa7f95f71a3cfe40aa59904f9285af72
 https://1240-vos.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qo70JD6.png",DeporTV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbd4301ab0af3681be89ccdee78859cc:9e33db27eb3e5a15b5bf3b8b33e297cc
-https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
+#EXTINF:-1 tvg-id="Eventos.ar" tvg-logo="https://i.imgur.com/UmggNYS.png" group-title="",Eventos 1
+https://pastebin.com/raw/nFuA3gfD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TnnmZP1.png",Garage TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -611,6 +604,11 @@ https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=457942dd5b773c8cafad4f486867cde4:d5a09694df94467f59aa46e24537d216
 https://1261-vos.dtvott.com/DASH/manifest.mpd
 
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/ej5zHuK.png" group-title="",TUDN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e55fb5570e4d3cb2a0a5f416f724cc:4a0855e2faf54910e3bb0eed58111ec8
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(77033-TUDNUH)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DnDsBdN.png",FOX Sports 1 (MX)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5804b7a24ca1303d8511b6d49278610c:fc0a63fd4fb80fd67ad25646857082f5
@@ -621,6 +619,10 @@ https://1117-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=165f0bfa5239548081e4e27f8410d6e6:9a7f5e8618468a045494cbb875287464
 https://dtvott-cbc.akamaized.net/dash_live_1124/manifest.mpd
 
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="",TUDN (MX)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e55fb5570e4d3cb2a0a5f416f724cc:4a0855e2faf54910e3bb0eed58111ec8
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(77033-TUDNUH)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fvenus_morado.png?alt=media&token=643e9923-24a3-4254-af3f-31cf8038e8f3",[+18] Venus (Pedir Activacion)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
