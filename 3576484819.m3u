@@ -67,6 +67,9 @@ https://dtvott-abc.akamaized.net/dash_live_1154/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
+
+#EXTINF:-1 tvg-logo="https://cespalarroyito.coop/iconos/canal3.png" tvg-group="Nacionales",Canal 3 Arroyito
+https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tavsbBi.png" tvg-group="Locales",Telefe Cordoba
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
