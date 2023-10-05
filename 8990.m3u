@@ -4,9 +4,7 @@
 https://dtvott-abc.akamaized.net/dash_live_1216/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales",El Trece
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=27965a5e47515c52af970def8230142c:b2f163b93028a4c325c0d8f7f1b29e25
-https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
+https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
  
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Nacionales",America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -510,8 +508,8 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Ga
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVXciO2.png" tvg-group="Deportes",FOX Sports Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=76be81041e7133a38457f097d2b0041c:8ced846c9effd56d7e2a9276224bb3c5
-https://1118-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+https://edge-live02-bel.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZtyngf.png" tvg-group="Deportes",FOX Sports 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
