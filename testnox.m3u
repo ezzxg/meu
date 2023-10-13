@@ -4,12 +4,14 @@
 https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
  
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales",El Trece
-https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+https://edge-live32-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd
  
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Nacionales",America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d14fca550adb5b75bb34f0c42aa281dd:6f76634b14e243f1bcee1c5fcd8a393c
-https://dtvott-abc.akamaized.net/dash_live_1010/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://edge10-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vxQjMY6.png" tvg-group="Nacionales",BravoTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -23,18 +25,18 @@ https://chromecast.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.m
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Ftvpublica.webp?alt=media&token=116d82d1-dd62-4434-8fc5-f11d06734604" tvg-group="Nacionales",TV Publica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f887375d1c7f007fb10447e84581be70:8183007932359a3cf145198b5129119c
-https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(TV_PUBLICA)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+https://edge-live14-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
  
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/96.png" tvg-group="Nacionales",El Nueve
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=78a2c02489da5d5aa2c5254dc8357690:2d26cfbc205d6be3c810039868f41ae6
-https://dtvott-abc.akamaized.net/dash_live_1032/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+https://edge-live01-bel.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
  
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png" tvg-group="Nacionales",C5N
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63bb90afe7a55cabb01fcac205353b25:26c36505b2a3454201dcc8370de0ee07
-https://dtvott-abc.akamaized.net/dash_live_1028/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+https://edge-vod04-sl.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9STIUvO.png" tvg-group="Nacionales",A24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -47,18 +49,12 @@ https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24
 https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
  
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fc26.png?alt=media&token=2275628c-c86a-41d5-aa64-520c030c071c" tvg-group="Nacionales",Canal 26
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9b16848f75455e38de2e5147630d649:36b5197a88db652d63e50211fa5e05d1
-https://dtvott-abc.akamaized.net/dash_live_1031/manifest.mpd
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/192.png" tvg-group="Nacionales",Cronica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
 https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Undefined" user-agent="iPhone",Crónica TV (720p)
-#EXTVLCOPT:http-user-agent=iPhone
-https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M3zNmqy.png" tvg-group="Nacionales",LN+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -172,9 +168,7 @@ https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAV
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" tvg-group="Variedades",Pasiones
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6bbdd5a6a21ea3d5bec34c515078e124:a975283846427d25df13a345bc40bdc1
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(PASIONES_HD)/manifest.mpd
+https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HVFLk8.png" tvg-group="Locales",RCN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -216,8 +210,8 @@ https://chromecast.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana
  
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" tvg-group="Música",MTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=74d426155d66366e97dc3a95d406dc03:049cb061d1e683a01504192e5f8e90cb
-https://1165-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
+https://edge-live17-hr.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KezV7um.png" tvg-group="Música",MTV 00s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -242,6 +236,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f3977
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vHgOIB5.png" tvg-group="Música",Classics HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS 
+ 
+#EXTINF:-1 tvg-id="PLUTO" tvg-logo="https://i.imgur.com/WrekIm1.png" tvg-group="Música",Clubbing TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+ 
+#EXTINF:-1 tvg-id="PLUTO" tvg-logo="https://i.imgur.com/EIY3y2F.png" tvg-group="Música",MTV Party
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f46a3769a6d0007429de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="PLUTO" tvg-logo="https://i.imgur.com/3zNwfze.png" tvg-group="Música",VH1 Classics
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
 #EXTINF:-1 tvg-id="BajoCero.cl" tvg-logo="https://i.imgur.com/3Nxe23t.png" tvg-group="Música",Portal Mix
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
@@ -374,31 +377,22 @@ https://live.seo.tv.bo/live/4SEO.m3u8
 
 #EXTINF:-1 tvg-id="SEOTV6.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Entertainment",SeoTV Novelas
 https://live.seo.tv.bo/live/6SEO.m3u8
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce0a7c883e2a5430bba97a3d68e0daf8:e30dd4908e667637369dfb6582f54d64
+
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/ySHq2yY.png" tvg-group="Cine y Series",Universal Cinema
-https://dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=252ddb6e79dd5351bb95eac1115d4191:f2051f38612f0a71cde7174a3c6c4526
+https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
+
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/JF6G11B.png" tvg-group="Cine y Series",Universal Comedy
-https://dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd
+https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2402ee3736c56b3bd5d50acf2300961:329937e5d236a35ffe91d6cd7125becc
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/Ni40v22.png" tvg-group="Cine y Series",Universal Crime
-https://dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d080be28a0fc5970bf1de897f80d40bd:ab8187d50d311d30bc0d7dc6eb5697d1
+https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
+
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/hUibV1T.png" tvg-group="Cine y Series",Universal Premiere
-https://dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd
+https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
  
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0402ba07dad5b0cb227af248ea2c5ee:ab463fb78e7e17b5e0ee4ea8bca35ec9
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/XwkLZpZ.png" tvg-group="Cine y Series",Universal Reality
-https://dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd
+https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
+
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9
@@ -666,10 +660,6 @@ https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Sfa3aU.png" tvg-group="Deportes",Eventos PREMIERE BR 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9fc08bc02c90500ba511d93a54d261c4:184832a5c70ebffcbc42c0243df398f3
-https://dtvott-jbc.akamaized.net/dash_live_0080/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=34dc14b5497f3a0faca742240cac20c8:0a6e1d0ba9f6b467f39cc51ba4cc9794
+https://0108-vos.dtvott.com/DASH/manifest.mpd
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DnDsBdN.png" tvg-group="Deportes",FOX Sports 1 (MX)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5804b7a24ca1303d8511b6d49278610c:fc0a63fd4fb80fd67ad25646857082f5
-https://1117-vos.dtvott.com/DASH/manifest.mpd
