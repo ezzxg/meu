@@ -65,9 +65,6 @@ https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" tvg-group="Nacionales",El Doce (2)
-https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
  
 #EXTINF:-1 tvg-logo="https://cespalarroyito.coop/iconos/canal3.png" tvg-group="Nacionales",Canal 3 Arroyito
 https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
@@ -293,8 +290,8 @@ https://1173-vos.dtvott.com/DASH/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ek1OmHd.png" tvg-group="Infantiles",Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3b91f95dc9152ce8fa34a7fed103b70:694eb12c6ca401b454bd742c374a50c0
-https://dtvott-abc.akamaized.net/dash_live_1079/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
+https://edge-live12-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBSxxqS.png" tvg-group="Infantiles",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -371,43 +368,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009
  
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/plutocinecomedia.png" tvg-group="Cine y Series",Pluto Cine Comedia 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=ef3244c0-f0dc-11ec-bd9f-0242ac110003&sid=ef3244c0-f0dc-11ec-bd9f-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlZjMyNDRjMC1mMGRjLTExZWMtYmQ5Zi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODAyMywianRpIjoiYzkzYWY5OWMtYTJjNi00MDYxLWFhMTItNzFhYTlmZTNjMTc5IiwiaWF0IjoxNjU1NzU5MjIzLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.IeJ2eAV90bMXq5-v6rx0Cme9UyK3Js8N333dP0LDauw&masterJWTPassthrough=true 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hVqalqv.jpg" tvg-group="Cine y Series",SeoTV Peliculas
-https://live.seo.tv.bo/live/4SEO.m3u8
-
-#EXTINF:-1 tvg-id="SEOTV6.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Entertainment",SeoTV Novelas
-https://live.seo.tv.bo/live/6SEO.m3u8
-
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/ySHq2yY.png" tvg-group="Cine y Series",Universal Cinema
-https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
-
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/JF6G11B.png" tvg-group="Cine y Series",Universal Comedy
-https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
- 
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/Ni40v22.png" tvg-group="Cine y Series",Universal Crime
-https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
-
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/hUibV1T.png" tvg-group="Cine y Series",Universal Premiere
-https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
- 
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://i.imgur.com/XwkLZpZ.png" tvg-group="Cine y Series",Universal Reality
-https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
-
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99eefc068db3509b9f0cf5b34114219d:6c23e31a4d83b568e84aec609a63ebc9
-#EXTINF:-1 tvg-id="HBOLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" tvg-group="Cine y Series",HBO HD
-https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6795a303a9e8517fbca38376c0af2f76:1bdb317229066ad2d74c4814a138e136
-#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" tvg-group="Cine y Series",HBO Plus HD
-https://dtvott-abc.akamaized.net/dash_live_1141/manifest.mpd
- 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a2aed17dc6050fb9dee6e65a06b3925:bac5818a6e1135db3c9f24fb752f699f
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://i.imgur.com/BS16Dmx.png" tvg-group="Cine y Series",HBO 2 HD
-https://dtvott-abc.akamaized.net/dash_live_1137/manifest.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
@@ -426,18 +386,13 @@ https://1019-vos.dtvott.com/DASH/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/17oDw9A.png" tvg-group="Cine y Series",AMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ff7f7bd977b33189108629f0effaa4b:211e132997cd8646eedf3d1bfe00696a
-https://1007-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
+https://edge-live01-bel.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m3XQgCj.png" tvg-group="Cine y Series",Sony Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
-https://chromecast.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5jvcNQ.png" tvg-group="Cine y Series",Sony Movies
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=391c137034f053938edbf26799549ddc:19d643d8a50b2f829c96a897f7df255d
-https://dtvott-abc.akamaized.net/dash_live_1263/manifest.mpd
+https://edge-live12-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_2A/SonyHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gze7lwy.png" tvg-group="Cine y Series",Sony Competencias
 https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
@@ -469,8 +424,8 @@ https://1210-vos.dtvott.com/DASH/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xuTbGb8.png" tvg-group="Cine y Series",Star Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c38d9310d3c5b46a37a39bbec6dd68a:f4333dfb0e708ec9865b9a6ff2a8e068
-https://dtvott-abc.akamaized.net/dash_live_1196/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykSWsHl.png" tvg-group="Cine y Series",Warner Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -509,8 +464,8 @@ https://chromecast.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc/Eurocha
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/320px-Universal_TV_logo.svg.png" tvg-group="Cine y Series",Universal TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a2cfe6f84f5573c82277af6ceb23c51:6f72430eef6b803f2b266da1f4eadc9a
-https://dtvott-abc.akamaized.net/dash_live_1243/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+https://edge9-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_2A/Universal_Channel_HD.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmAi4Bp.png" tvg-group="Cine y Series",Paramount Network
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -623,21 +578,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VtSQZcx.png" tvg-group="Deportes",VTV Plus
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b23302438ff324dab2eeaca5ea9f554:cd59eb711c8ac4ee0bf0c66f3e967a9c
-https://1246-vos.dtvott.com/DASH/manifest.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yegv2nc.png" tvg-group="Deportes",Liga 1 Max 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=022d63431e1a5221997dc9ce74c91e4f:363d2c58216f24b932662a943230136a
-https://dtvott-abc.akamaized.net/dash_live_1271/manifest.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSxjCY4.png" tvg-group="Deportes",GOL TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3303b4c6982f381ea9e309009fbb3f27:a7fd49808f890c2500bf2180aaf42307
-https://1134-vos.dtvott.com/DASH/manifest.mpd
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXEq6Jt.png" tvg-group="Deportes",DirecTV Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fa59463176f3dc2964b91b4f7ae1d7c:81d5b95cc9057d6b0f85c78e6f0e41e7
@@ -652,11 +592,16 @@ https://1063-vos.dtvott.com/DASH/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:e4fabf39d23cd6557fa71b6e754ef1e7
 https://dtvott-abc.akamaized.net/dash_live_1071/manifest.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Sfa3aU.png" tvg-group="Deportes",PREMIERE BR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PaM297n.png" tvg-group="Deportes",SporTV (BR)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50653a20839a57c8b2d3cde6ddc46cdb:892cc6b38a57fc61c20a1b48592a7412
-https://dtvott-jbc.akamaized.net/dash_live_0079/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=1f95bdb1be994681947927737ce2debd:4d75cf4fec349c1afaf37961ad8de1ee
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/64714fd84398454889640aa90e7889b5/index.mpd
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFedEm6.png" tvg-group="Deportes",SporTV2 (BR)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c72ebaa5d59c4400b90baed6d8a45443:e4ebd0c42149a57b86ff376dee7b5cf7
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/616a04f0bc544e6c9606e94349172858/index.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Sfa3aU.png" tvg-group="Deportes",Eventos PREMIERE BR 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
