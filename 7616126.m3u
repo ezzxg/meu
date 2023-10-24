@@ -155,7 +155,9 @@ https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAV
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" tvg-group="Variedades",Pasiones
-https://megaezztv.webcindario.com/vidapp/mantenience/2023-10-12_23-59-45.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
+https://edge-live01-bel.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2HVFLk8.png" tvg-group="Locales",RCN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -176,11 +178,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Antena_3/SA_Live_dash_enc_2A/Antena_
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
 https://chromecast.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yKWkPXd.png" tvg-group="Internacionales",Teleamazonas
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=806e76a83b73357a96e1446ad152ff71:002babbb1c5869a0f2f8f34b711700c6
-https://1214-vos.dtvott.com/DASH/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2FMega.png?alt=media&token=b385afd2-012e-4585-b8cf-e175326e9823" tvg-group="Internacionales",MEGA
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -274,9 +271,9 @@ https://chromecast.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.m
 https://chromecast.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4b1b9c4f55d396694e289660fd0c84b:2a9eb403e30a82516a14e1f3f8142c77
+#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
 #EXTINF:-1 tvg-id="NickelodeonSouth.us" tvg-logo="https://i.imgur.com/EeZQDeZ.png" tvg-group="Infantiles",Nick Jr
-https://1173-vos.dtvott.com/DASH/manifest.mpd
+https://edge-live01-bel.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ek1OmHd.png" tvg-group="Infantiles",Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -295,8 +292,8 @@ https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/Dis
  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest?cb=20200322141724&path-prefix=es" tvg-group="Infantiles",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a07d8bfe2f9956f28ca11466b4f520d5:11fdd8900d1eba9a6c95551f418dbf07
-https://dtvott-abc.akamaized.net/dash_live_1087/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
+https://edge-live01-bel.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/800px-A%26E_HD.png" tvg-group="Variedades",AE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -320,13 +317,13 @@ https://chromecast.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_2A/Disc
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nSx7rUh.png" tvg-group="Variedades",Discovery World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=650b2a2c9d993175a95cff9f4379bf77:1261346c61c4ec61927dead8fc0cc057
-https://1082-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5
+https://edge-live01-bel.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hZeZTPg.png" tvg-group="Variedades",Discovery Theater
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50b848449e373bec925946db30cc0634:a2523f96ee3baee69dc96210d6257a54
-https://1080-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
+https://edge-live01-bel.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TLC_logo_%282023%29.svg" tvg-group="Variedades",Discovery TLC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -345,8 +342,8 @@ https://chromecast.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_d
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PLNQC5U.png" tvg-group="Variedades",ID
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=36312b6db5aa3bb29ec97a35c79f7d66:0ff142134ad716a7a9a99585167a52b2
-https://1077-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
+https://edge-live01-bel.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd
  
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Ftrutv.webp?alt=media&token=86b5ddec-9de8-487e-923c-b8e9c90c1d13" tvg-group="Variedades",TruTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -386,8 +383,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PH2IOhq.png" tvg-group="Cine y Series",AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c152bb4696563d6d9369c375e328a8fd:c077f09e3a9dfef0580c9ae9f29e3bf2
-https://1019-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
+https://edge-live01-bel.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/17oDw9A.png" tvg-group="Cine y Series",AMC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -409,8 +406,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/Comed
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IrDUx7x.png" tvg-group="Cine y Series",TNT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bdcf12a2d68305db6c5a1521efd11c7:ff22ccb2e8b75305f634ec90d18dc01c
-https://1227-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
+https://edge-live01-bel.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1cNxdey.png" tvg-group="Cine y Series",TNT Series
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -424,8 +421,8 @@ https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/Cinecan
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBRVyiu.png" tvg-group="Cine y Series",Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8569dadb1563206a2c2bb0bdb6655b8:e17fec1b1897b5b1c25883749a89cf76
-https://1210-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
+https://edge-live01-bel.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xuTbGb8.png" tvg-group="Cine y Series",Star Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -439,8 +436,8 @@ https://chromecast.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_2A/WarnerH
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nQT79B9.png" tvg-group="Cine y Series",Space
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3af71d7c21a381fb6f41a1564293b06:b21e3b466e6d399618bdae6cd9dd5242
-https://1193-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
+https://edge-live01-bel.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOFjHP8.png" tvg-group="Cine y Series",FX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -489,8 +486,8 @@ https://chromecast.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc/ISAT.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZNcRZFb.png" tvg-group="Cine y Series",TNT Novelas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=49eb2c18bed652cc93c875cebb9af40e:841820d2663bab26e01a4bdcbf71e443
-https://dtvott-cbc.akamaized.net/dash_live_1212/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
+https://edge-live01-bel.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd
  
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo-5.png" tvg-group="Deportes",Conmebol Libertadores [Pluto y Telefe]
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
@@ -551,7 +548,7 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://chromecast.cvattv.com.ar16-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium FULL HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -607,11 +604,6 @@ https://d1wwtskvr1r98k.cloudfront.net/out/v1/64714fd84398454889640aa90e7889b5/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c72ebaa5d59c4400b90baed6d8a45443:e4ebd0c42149a57b86ff376dee7b5cf7
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/616a04f0bc544e6c9606e94349172858/index.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3Sfa3aU.png" tvg-group="Deportes",Eventos PREMIERE BR 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34dc14b5497f3a0faca742240cac20c8:0a6e1d0ba9f6b467f39cc51ba4cc9794
-https://0108-vos.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nl5N1ww.png" tvg-group="Deportes",TNT Sports 1 UK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
