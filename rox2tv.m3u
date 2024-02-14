@@ -609,10 +609,48 @@ https://1059-vos-da-mt.dtvott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d68
 #KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
 https://1063-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/begNQK1.png" tvg-group="Deportes",DirecTV Sports +
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Xk9dFGbUmm4h3421ABb34A/1200x675.jpg" tvg-group="Deportes",EVENTOS MLS
+https://megaezztv.webcindario.com/evn/even.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MDIDTF.png" tvg-group="Deportes",EVENTOS Infinity Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
-https://1071-abc-da-bpk.dtvott.com/f9028faec74be6ec7b3fbb0638dde28a/dtv-tv/dash_live_1071/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6MDIDTF.png" tvg-group="Deportes",EVENTOS Infinity Plus 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u2/u2-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_select.jpg" tvg-group="Deportes",EVENTOS Ziggo Select
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/go-dash-hdready-avc/NL_000094_019321.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/go3Qgam.png" tvg-group="Deportes",EVENTOS TNT Sports GB
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00079dbbb526c7cb40aec345e2b007d5:91e2e12e61a535528d3bc19371c26ea4
+https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport1)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/go3Qgam.png" tvg-group="Deportes",EVENTOS TNT Sports 2 GB
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00097e84e48516bddc69ac1b75e23190:99e880e73769540def6d05e3b48bb838
+https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport2)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/go3Qgam.png" tvg-group="Deportes",EVENTOS TNT Sports 3 GB
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007de04e20a711de10e375df407d417:a28d98170c2f9b50f90b2f590933f685
+https://linear114-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(gcptntsport3)/manifest_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cuT07y6.png" tvg-group="Deportes",EVENTOS ARENA SPORTSP 1 BH
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zHD9PeM.png" tvg-group="Deportes",EVENTOS SBT BR
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ad3dca103185934acff7a0e9000c112:3f396659d841a55cd1381e6735ecfa1d
+https://0006-bbc.dtvott.com/dash_live_0035/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="Deportes",DAZN 1 [1080p]
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -627,6 +665,3 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HXM8Wx.png" tvg-group="Deportes",SPORT TV2
 https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8/S!d2EISU9TX0xpdmUSBkPIS1XDVP7...8BFgyf/Level(3000000)
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zQEjbk6.png" tvg-group="Deportes",LaLiga BAR (No 24/7)
-https://bp1.mrgamingstreams.com/bar.m3u8
