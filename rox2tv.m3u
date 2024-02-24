@@ -575,51 +575,6 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium HD (Opcion 1)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
-https://edge-mix01-cte.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium HD (Opcion 2 NUEVA)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
-https://edge-live01-mun.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium HD (Opcion 3 NUEVA)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
-https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports HD (Opcion 1)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports HD (Opcion 2)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-https://edge-mix01-cte.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports HD (Opcion 3 NUEVA)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="Deportes",Star+ (Eventos)
-https://megaezztv.webcindario.com/evn/star1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="Deportes",Star+ 2 (Eventos)
-https://github.com/ezzxg/users-4413/raw/main/star2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="Deportes",Star+ 3 (Eventos)
-https://megaezztv.webcindario.com/evn/star3.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/996/773/non_2x/sport-ball-football-free-png.png" tvg-group="Nacionales",DEPORTES (Solo durante el evento)
-https://cdnhd.iblups.com/hls/9U0M64WWQT.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/012/996/773/non_2x/sport-ball-football-free-png.png" tvg-group="Nacionales",DEPORTES2 (Solo durante el evento)
-https://rpn3.bozztv.com/ssh101/ssh101/sportsxtveco/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7OnVv8y.png" tvg-group="Deportes",VTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
