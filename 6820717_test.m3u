@@ -622,7 +622,12 @@ https://1062-abc-da-bpk.dtvott.com/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://edge-live14-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", SUPERCOPA River Plate vs. Estudiantes
+https://mcdn.mrgamingstreams.com/river.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", SUPERCOPA River Plate vs. Estudiantes (Desde las 21:00) Opcion 1
+EXTVLCOPT:Referrer=https://v2.ssh101.com/
 https://srdiegoiptvguru.000webhostapp.com/hlshd/ok-ru_player2.php?https://ok.ru/videoembed/7578583768823&f=.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
