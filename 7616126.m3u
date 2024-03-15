@@ -256,6 +256,26 @@ https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.m
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn0ObPz.png" tvg-group="Música",Flow Music 605
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2aae44a74144be8b2118e20d1412bab:8a7ae996d12d8d5d5637d1044f8e08b7
+https://edge-mix02-mus.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_Live_dash_enc/Flow_Music_XP.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn0ObPz.png" tvg-group="Música",Flow Music 1 606
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f34cd7709f093d23d4db009107d96862:d8a829138d970b45e867c9733a31b2f0
+https://edge-vod04-hr.cvattv.com.ar/live/c7eds/Flow_Music_1/SA_Live_dash_enc/Flow_Music_1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn0ObPz.png" tvg-group="Música",Flow Music 2 607
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=596b599580b39ae2f3c413f7eae36902:2d7e3d5d31f68690fd877a111f84e8e3
+https://edge-mix04-coe.cvattv.com.ar/live/c7eds/Flow_Music_2/SA_Live_dash_enc/Flow_Music_2.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn0ObPz.png" tvg-group="Música",Flow Music 3 608
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e078b15ed770ec71f803c0ecc43de033:7010bccda544f74d1b425c4cebd082d4
+https://edge1-ccast-sl.cvattv.com.ar/live/c7eds/Flow_Music_3/SA_Live_dash_enc/Flow_Music_3.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xuvBQCw.png" tvg-group="Música",HTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
@@ -387,6 +407,9 @@ https://chromecast.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
 https://edge-live02-mun.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd
+
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" tvg-group="Cine y Series",HBO HD
+https://m3ukodi.com/developer/brokentv/brokentv.php?821
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
@@ -557,10 +580,8 @@ https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/F
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="Nacionales", ESPN (Chile)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cd890259fc683350f6f63409ea980e8:bbf1cb549696541148e85f513d737105
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/ESPNHD/dash_fk/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="Deportes",ESPN Argentina (60FPS)
+https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="Deportes",ESPN 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -622,27 +643,11 @@ https://1062-abc-da-bpk.dtvott.com/dash_live_1233/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://edge-live14-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", SUPERCOPA River Plate vs. Estudiantes
-https://mcdn.mrgamingstreams.com/river.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS Star+
+https://megaezztv.webcindario.com/star1.php
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", SUPERCOPA River Plate vs. Estudiantes (Desde las 21:00) Opcion 1
-EXTVLCOPT:Referrer=https://v2.ssh101.com/
-https://srdiegoiptvguru.000webhostapp.com/hlshd/ok-ru_player2.php?https://ok.ru/videoembed/7578583768823&f=.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", SUPERCOPA River Plate vs. Estudiantes (Desde las 21:00) Opcion 2
-EXTVLCOPT:Referrer=https://v2.ssh101.com/
-https://ssh101.bozztv.com/ssh101/star1megaezz/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="Deportes",Futbol Argentino/Boxeo/UFC/Eventos (OK.RU)
-https://srdiegoiptvguru.000webhostapp.com/hlshd/ok-ru_player2.php?https://ok.ru/videoembed/7578583768823&f=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="Deportes",Futbol Argentino/Boxeo/UFC/Eventos (XH)
-https://xhateaec.com/livestreams/89.I0nKDZB9FutL20Wl.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DvKdqPN.png" tvg-group="Deportes",MLS (Mayormente partidos de Messi)
-https://srdiegoiptvguru.000webhostapp.com/hlshd/ok-ru_player2.php?https://ok.ru/videoembed/7582529625847&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DvKdqPN.png" tvg-group="Deportes",MLS (Activo unos minutos antes del partido)
+https://megaezztv.webcindario.com/mesias.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7OnVv8y.png" tvg-group="Deportes",VTV Uruguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
