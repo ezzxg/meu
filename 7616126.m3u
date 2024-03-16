@@ -587,6 +587,9 @@ https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="Deportes",ESPN 2 Argentina (60FPS)
+https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtYhkZL.png" tvg-group="Deportes",ESPN 3 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -646,7 +649,13 @@ https://edge-live14-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS Star+
 https://megaezztv.webcindario.com/star1.php
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DvKdqPN.png" tvg-group="Deportes",MLS (Activo unos minutos antes del partido)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS Star+ 2
+https://megaezztv.webcindario.com/star2.php
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DvKdqPN.png" tvg-group="Deportes",MLS
+https://megaezztv.webcindario.com/mls-general.php
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DvKdqPN.png" tvg-group="Deportes",MLS (Inter Miami)
 https://megaezztv.webcindario.com/mesias.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7OnVv8y.png" tvg-group="Deportes",VTV Uruguay
