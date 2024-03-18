@@ -548,7 +548,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/Depor
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -578,7 +578,7 @@ https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/F
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="Deportes",ESPN Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
-https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+https://edge-live16-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="Deportes",ESPN Argentina (60FPS)
 https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
