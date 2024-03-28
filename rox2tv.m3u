@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+https://edge-mix01-cte.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
  
 #EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png" tvg-group="Nacionales",El Trece
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -601,17 +601,11 @@ https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/F
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://edge-live16-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="Deportes",ESPN Argentina (60FPS)
-https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="Deportes",ESPN 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
 https://chromecast.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="Deportes",ESPN 2 Argentina (60FPS)
-https://clearnet.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtYhkZL.png" tvg-group="Deportes",ESPN 3 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
