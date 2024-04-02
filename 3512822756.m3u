@@ -1,47 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FhfJdQk.png" tvg-group="Adultos", Venus
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34237d2ae6684ee7a011f5b9c7c43e6d:05d973d987915120e567880f50a422af
-https://edge-live14-hr.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7xpJvOZ.png" tvg-group="Adultos", Playboy
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8577d81eaf33436d9f1e482360685a7c:f608a0ac703cfaaf9442574d9a2b87fb
-https://edge-vod06-sl.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", Sextreme
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=95bd64227acf458daf7886f803d0298e:79e28ee0ec58958bb666f9e53a0cd434
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Sextreme/SA_Live_dash_enc/Sextreme.mpd
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 1
-http://cord-cutter.net:8080/YT6bvC/100111/159958
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 2
-http://cord-cutter.net:8080/YT6bvC/100111/159963
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 3
-http://cord-cutter.net:8080/YT6bvC/100111/159955
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 4
-http://cord-cutter.net:8080/YT6bvC/100111/159962
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 5
-http://cord-cutter.net:8080/YT6bvC/100111/159985
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 6
-http://cord-cutter.net:8080/YT6bvC/100111/159951
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 7
-http://cord-cutter.net:8080/YT6bvC/100111/159956
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 8
-http://23.158.200.7/live/ij20mlqm/rv5y4nr5/83241.m3u8
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 9
-http://185.182.193.203:25461/live/mayank9824/8229467/70990.m3u8
-
-#EXTINF:-1 tvg-logo="https://flowtv.uy/wp-content/uploads/2022/10/SeXtreme.png" tvg-group="Adultos", PORNBOX 10
-http://185.182.193.203:25461/live/mayank9824/8229467/55707.m3u8#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe
+#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png" tvg-group="Nacionales", Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://edge-mix01-cte.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
@@ -457,6 +414,11 @@ https://chromecast.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_Live_d
 https://edge-live02-mun.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc/ID.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5317283f4110fac3fb3a0becd9f648bc":"0754a03c926b1247216e01d9dbcfac28"}
+#EXTINF:-1 tvg-id="hbo.ar" tvg-logo="https://television-libre.online/img/hbo.webp" group-title="Peliculas",HBO HD
+https://edge-mix02-mus.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us" tvg-logo="https://i.imgur.com/BS16Dmx.png" tvg-group="Cine y Series",HBO 2 HD
 https://edge-live02-mun.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
@@ -649,6 +611,9 @@ https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/F
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 https://edge-live16-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="Deportes",ESPN Argentina (HLS)
+http://204.199.119.6:1012/play/a04h
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="Deportes",ESPN 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -700,6 +665,12 @@ https://edge-live11-hr.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_da
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 https://edge-live02-mun.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://claplivehdplay.ru
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png",TNT SPORTS (HLS)
+https://webhdrus.onlinehdhls.ru/lb/premium388/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
@@ -727,10 +698,9 @@ https://megaezztv.webcindario.com/mesias.php
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXEq6Jt.png" tvg-group="Deportes",DirecTV Sports
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e1c0dd8d951335d9d8c534d29277c91:978f073eee32606a3f2544306fb1a7b3
-https://1059-vos-da-mt.dtvott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1059/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://live.sdfgnksbounce.com/
+#EXTINF:-1 tvg-id="dtvgo" tvg-logo="https://megadeportestv2.com/img/DSports.png" group-title="Deportes",Dsports
+https://megaezztv.webcindario.com/app/dsportsgo_hls.php
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3fU2Hiu.png" tvg-group="Deportes",DirecTV Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
