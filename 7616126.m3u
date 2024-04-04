@@ -46,7 +46,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24
 #EXTINF:-1 tvg-logo="https://cablevisionflow.com.uy/assets/img/contenidos/grilla-flow/TN%20HD.png" tvg-group="Nacionales",TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
+http://edge-mix01-ird.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
  
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ezzdecode.appspot.com/o/img%2Fc26.png?alt=media&token=2275628c-c86a-41d5-aa64-520c030c071c" tvg-group="Nacionales",Canal 26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -117,9 +117,6 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
 https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd
- 
-#EXTINF:-1 tvg-id="Canal9Multivision.ar" tvg-logo="https://i.imgur.com/2WFGiCh.png" tvg-group="Locales",Canal 9 Multivision
-https://panel.dattalive.com/8250/8250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal9Multivision.ar" tvg-logo="https://i.imgur.com/Eu7rHtj.jpeg" tvg-group="Locales",T5 Satelital
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
@@ -256,7 +253,7 @@ https://chromecast.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd
 #KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
 https://chromecast.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
  
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e29c46a43b8_QuieroMsicaTV.png.c8744ad128faccb060fc71fa96ba294e.png" tvg-group="Música",Quiero Musica
+#EXTINF:-1 tvg-logo="https://television-libre.online/img/quiero.webp" tvg-group="Música",Quiero Musica
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 https://chromecast.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd
@@ -570,7 +567,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_Live_dash_enc/Depor
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
-https://megaezztv.webcindario.com/app/tyc.php
+https://megaezztv.webcindario.com/app/sports.php?id=2
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports Internacional
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -595,7 +592,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVXciO2.png" tvg-group="Deportes",FOX Sports Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
-https://edge-vod01-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+https://megaezztv.webcindario.com/app/sports.php?id=1
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZtyngf.png" tvg-group="Deportes",FOX Sports 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -609,7 +606,7 @@ https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/F
 
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://claplivehdplay.ru/
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-logo="https://i.imgur.com/X7XwiBI.png" group-title="Deportes",Fox Sports Premium (Mexico)
-https://webhdrus.onlinehdhls.ru/lb/premium830/index.m3u8
+https://megaezztv.webcindario.com/app/sports.php?id=6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="Deportes",ESPN Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -642,18 +639,16 @@ https://edge-vod04-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_2A/ESPN4.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
 #EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://television-libre.online/img/espn6.webp" group-title="Deportes",ESPN 6
-https://edge-live31-hr.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_wl/FoxSports3_UY.mpd
+http://edge-mix01-ird.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_wl/FoxSports3_UY.mpd
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://claplivehdplay.ru
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
-#EXTINF:-1,ESPN MX
-https://webhdrus.onlinehdhls.ru/lb/premium388/index.m3u8
+#EXTINF:-1,ESPN Deportes
+https://megaezztv.webcindario.com/app/sports.php?id=5
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium FULL HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
-https://megaezztv.webcindario.com/app/espnpremium_hd.php
+https://megaezztv.webcindario.com/app/sports.php?id=4
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium HD (Opcion SD)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -681,22 +676,15 @@ https://edge-live02-mun.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png",TNT SPORTS (HLS)
 https://webhdrus.onlinehdhls.ru/lb/premium388/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports FULL HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-https://megaezztv.webcindario.com/app/tntsports_hd.php
+https://megaezztv.webcindario.com/app/sports.php?id=3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports HD (Opcion SD)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://edge-live14-hr.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wt84AGX.jpeg",(21hs) Boca vs Nacional Potosí (OPCION 1)
-http://147.185.221.19:14377/tmp_hls/stream/index.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wt84AGX.jpeg",(21hs) Boca vs Nacional Potosí (OPCION 2)
-https://megaezztv.webcindario.com/boca-evento.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS Star+
 https://megaezztv.webcindario.com/star1.php
@@ -704,34 +692,18 @@ https://megaezztv.webcindario.com/star1.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS Star+ 2
 https://megaezztv.webcindario.com/star2.php
 
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://claplivehdplay.ru/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
 #EXTINF:-1 tvg-id="mls.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png" group-title="Deportes",MLS
-https://megaezztv.webcindario.com/eventos-intermiami.php
+https://megaezztv.webcindario.com/app/sports.php?id=8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DvKdqPN.png" tvg-group="Deportes",MLS (Inter Miami)
-https://megaezztv.webcindario.com/mesias.php
-
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://claplivehdplay.ru
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
 #EXTINF:-1 tvg-id="tudn.mx" tvg-logo="https://seeklogo.com/images/T/tudn-logo-5AD119A8E6-seeklogo.com.png" group-title="Deportes",TUDN MX
-https://webhdrus.onlinehdhls.ru/lb/premium66/index.m3u8
+https://megaezztv.webcindario.com/app/sports.php?id=7
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7OnVv8y.png" tvg-group="Deportes",VTV Uruguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
 https://chromecast.cvattv.com.ar/live/c3eds/VTV_HD/SA_Live_dash_enc/VTV_HD.mpd
- 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://focus4ca.com/
-#EXTINF:-1 tvg-id="dtvgo" tvg-logo="https://megadeportestv2.com/img/DSports.png" group-title="Deportes",Dsports
-https://megaezztv.webcindario.com/app/dsportsgo_hls.php
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fU2Hiu.png" tvg-group="Deportes",DirecTV Sports 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c44d52b11dce3875ad2765c9d469075b:af4ba31c1324eb92ac88463f7bd941d5
-https://1063-vos-da-mt.dtvott.com/DASH/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YjQF8Zq.png" tvg-group="Deportes",SkySports F1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
