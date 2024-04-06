@@ -663,7 +663,7 @@ https://megaezztv.webcindario.com/app/sports.php?id=espnpremiumhd
 https://megaezztv.webcindario.com/app/sports.php?id=espnpremiumsd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png",ESPN Premium Argentina (Opcion SD 2)
+#EXTINF:-1 tvg-logo="https://imgur.com/oPH8V9c",ESPN Premium Argentina (Opcion SD 2)
 https://megaezztv.webcindario.com/app/sports.php?id=espnpremiumhls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina HD
@@ -676,26 +676,18 @@ https://megaezztv.webcindario.com/app/sports.php?id=tntsportshd
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 https://megaezztv.webcindario.com/app/sports.php?id=tntsportssd
 
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://claplivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84erChI.png",TNT Sports Argentina (Opcion SD 2)
 https://megaezztv.webcindario.com/app/sports.php?id=tntsportshls
 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.opencaster.com/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.opencaster.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS Star+
 https://megaezztv.webcindario.com/app/sports.php?id=star1
 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.opencaster.com/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.opencaster.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS Star+ 2
 https://megaezztv.webcindario.com/app/sports.php?id=star2
 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.opencaster.com/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.opencaster.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
 #EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="Deportes",MLS
 https://megaezztv.webcindario.com/app/sports.php?id=mls
