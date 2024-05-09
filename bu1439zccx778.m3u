@@ -767,10 +767,10 @@ https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/dash_fk/index.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://app.restream.io
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://app.restream.io/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS (Star+ y MLS) RS
-http://147.185.221.19:15214/tRCXqxdtyv/TpZUvFhwSK/256.m3u8
+http://149.50.140.120:80/megaezz/megaezz/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS (Star+ y MLS) RU
-http://147.185.221.19:15214/tRCXqxdtyv/TpZUvFhwSK/204.m3u8
+http://149.50.140.120:80/megaezz/megaezz/3.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=IPTV/1.0 Android 7.1.2 dolphin 8536 Build/NRD91N LibVLC/3.0.16
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" group-title="Deportes",Eventos Deportes HD (Aliez)
