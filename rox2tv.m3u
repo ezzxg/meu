@@ -720,64 +720,9 @@ https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"24f2b3e741f0d9e9a8d516faff38bddc":"bbd3fd02fb104e1463ac528a13f67e4a"}
-#EXTINF:-1 tvg-id="espn5.co" tvg-logo="https://television-libre.online/img/espn5.webp" group-title="Deportes",ESPN 5
-https://edge-vod04-sl.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_2A/ESPN4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
-#EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://television-libre.online/img/espn6.webp" group-title="Deportes",ESPN 6
-http://edge-mix01-ird.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_wl/FoxSports3_UY.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
-#EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://television-libre.online/img/espn7.png" group-title="Deportes",ESPN 7
-https://edge-live15-sl.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
 #EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://i.imgur.com/MCnwIMK.png" group-title="Deportes",Eventos Flow
 https://edge-mix02-ird.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_Uy.mpd
-
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Argentina HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
-https://edge-mix01-ird.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
- 
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Argentina (SD)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-https://edge-vod06-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
-
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-https://edge-vod02-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
-
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina (SD)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-https://edge-live15-sl.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
-
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Chile HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=93195148e6b1f97cdd31224d04db2e0d:dd7fcfad44d7e498daf1f5cb8c09d5e3
-https://clbpktstvdash-3.clarovideo.com/bpk-tv/FOXSPORTS1HD/dash_fk/index.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://app.restream.io
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://app.restream.io/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS (Star+ y MLS) RS
-http://147.185.221.19:15214/tRCXqxdtyv/TpZUvFhwSK/256.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FlF8hwy.png" tvg-group="DEPORTES", EVENTOS (Star+ y MLS) RU
-http://147.185.221.19:15214/tRCXqxdtyv/TpZUvFhwSK/204.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=IPTV/1.0 Android 7.1.2 dolphin 8536 Build/NRD91N LibVLC/3.0.16
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" group-title="Deportes",Eventos Deportes HD (Aliez)
-http://147.185.221.19:15214/tRCXqxdtyv/TpZUvFhwSK/255.m3u8
-
-#EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="Deportes",MLS
-http://147.185.221.19:15214/tRCXqxdtyv/TpZUvFhwSK/209.m3u8
 
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/dsports.webp" group-title="Deportes",DSports
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/4668.m3u8
