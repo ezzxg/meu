@@ -1,4 +1,4 @@
-#EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-logo="https://i.imgur.com/gDvf2Tz.png" tvg-id="Telefe.(TELFE2).ar" group-title="Nacionales",Telefe
+#EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-logo="https://i.imgur.com/gDvf2Tz.png" tvg-id="Telefe.(TELFE2).ar" group-title="Nacionales", 𝗧𝗘𝗟𝗘𝗙𝗘 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
  
@@ -475,6 +475,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645d1abbe1979c0008779d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Misterios sin Resolver 24 Horas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-5a772edf-593d-4446-aca0-b99948e8a0d6&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=0195aecb-267a-488b-ae0e-9b3e78d2087c&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" tvg-group="Deportes",          🍿 𝘾𝙖𝙣𝙖𝙡𝙚𝙨 𝙙𝙚 Cine 𝙮 Series 🍿
+https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5317283f4110fac3fb3a0becd9f648bc":"0754a03c926b1247216e01d9dbcfac28"}
 #EXTINF:-1 tvg-id="HBO.Latin.America.(East).(HBO).ar" tvg-logo="https://television-libre.online/img/hbo.webp" group-title="Peliculas",HBO HD
@@ -653,6 +656,9 @@ https://edge-live01-cte.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Para
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 https://chromecast.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" tvg-group="Deportes",          ⚽ 𝘾𝙖𝙣𝙖𝙡𝙚𝙨 𝙙𝙚 𝘿𝙚𝙥𝙤𝙧𝙩𝙚𝙨 ⚽
+https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd
  
 #EXTINF:-1 tvg-id="DeporTV.(DEPTV).ar" tvg-logo="https://i.imgur.com/G8uuDOm.png" tvg-group="Deportes",DeporTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -867,8 +873,3 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",Sportv Premiere BR
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
