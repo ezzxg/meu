@@ -432,18 +432,18 @@ https://ythls-v2.onrender.com/video/mNqOTssqR8Q.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vaughn.live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png",Cinemundo+ Peliculas las 24hs
-https://clutch.vaughnsoft.net/ord/vl/a_neflix01.m3u8
+http://149.50.140.120:80/megaezz/megaezz/104.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vaughn.live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png",Terror Mania Peliculas 24hs
-https://clutch.vaughnsoft.net/ord/vl/terror_mania.m3u8
+http://149.50.140.120:80/megaezz/megaezz/105.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",El Chavo del 8 24 Horas
-http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/37765.m3u8
+http://149.50.140.120:80/megaezz/megaezz/106.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vaughn.live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png",Los Simpsons 24 Horas
-https://clutch.vaughnsoft.net/ord/vl/simpson_maniahd189.m3u8
+http://149.50.140.120:80/megaezz/megaezz/107.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",COPS 24 Horas
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
@@ -640,7 +640,7 @@ http://149.50.140.120:80/megaezz/megaezz/151.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.ar" tvg-logo="https://i.imgur.com/RmAi4Bp.png" tvg-group="Cine y Series",Paramount Channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff46a5902788f87c71f7e2e55b4c71d3:b9b9a0b2121074a8d51f4d883fb64e4b
+#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
 http://149.50.140.120:80/megaezz/megaezz/152.m3u8
 
 #EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.imgur.com/rnXRc6n.gif" tvg-group="Cine y Series",Volver
@@ -801,8 +801,7 @@ http://149.50.140.120:80/megaezz/megaezz/187.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="Deportes",DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f
+#KODIPROP:inputstream.adaptive.license_key={"44dd9cd370b08a868ead115fe84ecfde":"bff19ab0a51cf14e848389b152913fd0","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
 http://149.50.140.120:80/megaezz/megaezz/188.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmF7gnc.png" tvg-group="Deportes",DAZN La Liga
@@ -812,14 +811,13 @@ http://149.50.140.120:80/megaezz/megaezz/189.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJbednM.jpeg" tvg-group="Deportes",DAZN F1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-b770d5b4bb6b594daf985845aae9aa5f:b0cb46d2d31cf044bc73db71e9865f6f
-http://149.50.140.120:80/megaezz/megaezz/190.m3u8
+#KODIPROP:inputstream.adaptive.license_key={"1061be12d303247426ec25e8369b2647":"bd622b0e610295de3b0bccb850ccaaaa","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ngoe8Do.png" tvg-group="Deportes",La Liga TV Hypermotion ES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-http://149.50.140.120:80/megaezz/megaezz/191.m3u8
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MDIDTF.png" tvg-group="Deportes",Infinity Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -834,7 +832,7 @@ http://149.50.140.120:80/megaezz/megaezz/193.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J56BTYk.jpeg" tvg-group="Deportes",Sky Sports Calcio IT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-http://149.50.140.120:80/megaezz/megaezz/194.m3u8
+https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KwOpHD7.jpeg" tvg-group="Deportes",SSC Sport 1 SA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
