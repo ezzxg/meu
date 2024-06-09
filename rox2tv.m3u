@@ -713,64 +713,6 @@ http://149.50.140.120:80/megaezz/megaezz/166.m3u8
 #KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
 http://149.50.140.120:80/megaezz/megaezz/167.m3u8
 
-#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://television-libre.online/img/espn5.webp" group-title="Deportes",ESPN 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"24f2b3e741f0d9e9a8d516faff38bddc":"bbd3fd02fb104e1463ac528a13f67e4a"}
-http://149.50.140.120:80/megaezz/megaezz/168.m3u8
-
-#EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://television-libre.online/img/espn6.webp" group-title="Deportes",ESPN 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
-http://149.50.140.120:80/megaezz/megaezz/169.m3u8
-
-#EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://television-libre.online/img/espn7.png" group-title="Deportes",ESPN 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
-http://149.50.140.120:80/megaezz/megaezz/170.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
-#EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://i.imgur.com/MCnwIMK.png" group-title="Deportes",Eventos Flow
-http://149.50.140.120:80/megaezz/megaezz/171.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Argentina HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
-http://149.50.140.120:80/megaezz/megaezz/172.m3u8
- 
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Argentina (SD)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
-http://149.50.140.120:80/megaezz/megaezz/173.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-http://149.50.140.120:80/megaezz/megaezz/174.m3u8
-
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina (SD)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
-http://149.50.140.120:80/megaezz/megaezz/175.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 1 (SRV)
-http://149.50.140.120:80/megaezz/megaezz/176.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://app.restream.io
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://app.restream.io/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 2 (RS)
-http://149.50.140.120:80/megaezz/megaezz/177.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 3 (OK)
-http://149.50.140.120:80/megaezz/megaezz/178.m3u8
-
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://focus4ca.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 4
-http://149.50.140.120:80/megaezz/megaezz/179.m3u8
-
-#EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="Deportes",MLS
-http://149.50.140.120:80/megaezz/megaezz/180.m3u8
-
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/dsports.webp" group-title="Deportes",DSports
 http://149.50.140.120:80/megaezz/megaezz/181.m3u8
 
