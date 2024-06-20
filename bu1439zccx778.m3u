@@ -1,13 +1,18 @@
 #EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-logo="https://i.imgur.com/gDvf2Tz.png" tvg-id="Telefe.(TELFE2).ar" group-title="Nacionales", Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://149.50.140.120:80/megaezz/megaezz/2.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3cec1b1ea9799dda5596e64f37e5ed20":"c69f3afde2085dcaaaddbf55246a0323"}
+#EXTINF:-1 tvg-id="telefe.ar" tvg-logo="https://i.imgur.com/gDvf2Tz.png" group-title="Nacionales",Telefe (2)
+http://149.50.140.120:80/megaezz/megaezz/213.m3u8
  
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/eltrece.webp"  tvg-id="El.Trece.(Canal.13).(CNL13).ar" group-title="Nacionales",El Trece
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27965a5e47515c52af970def8230142c:fbe3bc448126a05697b4750ab0d294bb
 http://149.50.140.120:80/megaezz/megaezz/3.m3u8
 
-#EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-id="Telefe.(TELFE2).ar" tvg-logo="https://i.imgur.com/hlm0lXN.png" tvg-group="Nacionales",America
+#EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-id="América.TV.HDTV.(AMERHD).ar" tvg-logo="https://i.imgur.com/hlm0lXN.png" tvg-group="Nacionales",America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
 http://149.50.140.120:80/megaezz/megaezz/4.m3u8
@@ -85,7 +90,7 @@ http://149.50.140.120:80/megaezz/megaezz/18.m3u8
 #KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
 http://149.50.140.120:80/megaezz/megaezz/19.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xNacsGM.png" tvg-group="Nacionales",El Doce
+#EXTINF:-1 tvg-id="EL.DOCE.ar" tvg-logo="https://i.imgur.com/xNacsGM.png" tvg-group="Nacionales",El Doce
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 http://149.50.140.120:80/megaezz/megaezz/20.m3u8
@@ -455,7 +460,7 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65623e0eb7d7
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Empeños a lo bestia 24 Horas
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+http://149.50.140.120:80/megaezz/megaezz/111.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Misterios Medicos 24 Horas
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-666b7e1f-676d-41c0-92ee-fcc032f6f20c&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=b1a019a8-28f7-4879-8ad4-18701518a771&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
@@ -547,7 +552,7 @@ http://149.50.140.120:80/megaezz/megaezz/131.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
 http://149.50.140.120:80/megaezz/megaezz/132.m3u8
 
-#EXTINF:-1 tvg-id="Cinecanal.(Argentina).(CINE).ar" tvg-logo="https://i.imgur.com/NhtMWLp.png" tvg-group="Cine y Series",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.+.HDTV.(Latin.America).(CIN+H).ar" tvg-logo="https://i.imgur.com/NhtMWLp.png" tvg-group="Cine y Series",Cinecanal
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
 http://149.50.140.120:80/megaezz/megaezz/133.m3u8
@@ -698,6 +703,11 @@ http://149.50.140.120:80/megaezz/megaezz/163.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 http://149.50.140.120:80/megaezz/megaezz/164.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"418583d14c185e5db9049d1440f000b2":"4fc5c3d1f38e066bee53b4d64c1468d3","889182f3be9b57d7b7702065bc00a492":"3039ad69cd8236616857e2b0784e9cbd","01824898bd6a59308c546c3d2ee0bdae":"39de9ff7cd4478b08404f9733cfa9eae"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zot6l4Z.png" group-title="Deportes",ESPN Colombia
+http://149.50.140.120:80/megaezz/megaezz/206.m3u8
+
 #EXTINF:-1 tvg-id="ESPN2Argentina" tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="Deportes",ESPN 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
@@ -732,6 +742,11 @@ http://149.50.140.120:80/megaezz/megaezz/170.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
 #EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://i.imgur.com/MCnwIMK.png" group-title="Deportes",Eventos Flow
 http://149.50.140.120:80/megaezz/megaezz/171.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5c86e237317c2231ac1bc130e995fad6":"dcacf7b239ee03df3c69ca11dbcde4eb"}
+#EXTINF:-1 tvg-id="Eventos .ar" tvg-logo="https://i.imgur.com/so7HCmC.png" group-title="Deportes",Eventos1HD
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
 #EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Argentina HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -865,6 +880,26 @@ http://149.50.140.120:80/megaezz/megaezz/199.m3u8
 http://149.50.140.120:80/megaezz/megaezz/200.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"00362452ed102000ccea64c311921dc2":"02f27bd6caab7633d3083b94d3958b1c"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Deportes",SkySports UNO IT
+http://149.50.140.120:80/megaezz/megaezz/205.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",Sportv Premiere BR
 http://149.50.140.120:80/megaezz/megaezz/201.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8577d81eaf33436d9f1e482360685a7c":"f608a0ac703cfaaf9442574d9a2b87fb"}
+#EXTINF:-1 tvg-id="Playboy.TV.Latin.America.and.Iberia.(PLYBY).ar" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/13/58/playboy-42527_960_720.png" group-title="Adultos",Playboy HD
+http://149.50.140.120:80/megaezz/megaezz/202.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"34237d2ae6684ee7a011f5b9c7c43e6d":"05d973d987915120e567880f50a422af"}
+#EXTINF:-1 tvg-id="Venus.International.(VENUS).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Adultos",Venus
+http://149.50.140.120:80/megaezz/megaezz/203.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"95bd64227acf458daf7886f803d0298e":"79e28ee0ec58958bb666f9e53a0cd434"}
+#EXTINF:-1 tvg-id="Sextreme.ar" tvg-logo="https://i.imgur.com/x16lWX1.png" group-title="Adultos",Sextreme
+http://149.50.140.120:80/megaezz/megaezz/204.m3u8
