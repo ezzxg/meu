@@ -432,9 +432,6 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/100.m3u8
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/101.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",ALF 24 Horas
-https://ythls-v2.onrender.com/video/mNqOTssqR8Q.m3u8
-
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vaughn.live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png",Cinemundo+ Peliculas las 24hs
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/104.m3u8
@@ -733,16 +730,6 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/169.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/170.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
-#EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://i.imgur.com/MCnwIMK.png" group-title="Deportes",Eventos Flow
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/171.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5c86e237317c2231ac1bc130e995fad6":"dcacf7b239ee03df3c69ca11dbcde4eb"}
-#EXTINF:-1 tvg-id="Eventos .ar" tvg-logo="https://i.imgur.com/so7HCmC.png" group-title="Deportes",Eventos1HD
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
-
 #EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Argentina HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
@@ -769,11 +756,21 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/214.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKJ3sZ6.png" tvg-group="DEPORTES", Copa America 2
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/215.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 1 [Disney+]
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/178.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 2 [Disney+]
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/179.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
+#EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://i.imgur.com/MCnwIMK.png" group-title="Deportes",Eventos Flow
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/171.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5c86e237317c2231ac1bc130e995fad6":"dcacf7b239ee03df3c69ca11dbcde4eb"}
+#EXTINF:-1 tvg-id="Eventos .ar" tvg-logo="https://i.imgur.com/so7HCmC.png" group-title="Deportes",Eventos1HD
+https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 
 #EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="Deportes",MLS
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/180.m3u8
@@ -811,20 +808,35 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/185.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/187.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJbednM.jpeg" tvg-group="Deportes",DAZN F1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1061be12d303247426ec25e8369b2647":"bd622b0e610295de3b0bccb850ccaaaa","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="Deportes",DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"44dd9cd370b08a868ead115fe84ecfde":"bff19ab0a51cf14e848389b152913fd0","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/188.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="Deportes",DAZN 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0eab5a3f3e3b4ba5d42d40ca30d17571":"f3f061ded9b70e8160590d5802ecda6d"}
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/217.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="Deportes",DAZN 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bad8efff688c0dbb3711e4a7114c22a3":"6ba800673b20776c0c850130d45e1920"}
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/218.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="Deportes",DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d27104d427e4f87e75b19395a9f8796b":"723593c70e2d4c4862754398e80168f8"}
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/219.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bmF7gnc.png" tvg-group="Deportes",DAZN La Liga
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/189.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJbednM.jpeg" tvg-group="Deportes",DAZN F1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1061be12d303247426ec25e8369b2647":"bd622b0e610295de3b0bccb850ccaaaa","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ngoe8Do.png" tvg-group="Deportes",La Liga TV Hypermotion ES
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -843,8 +855,8 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/193.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J56BTYk.jpeg" tvg-group="Deportes",Sky Sports Calcio IT
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
-https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
+https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KwOpHD7.jpeg" tvg-group="Deportes",SSC Sport 1 SA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
