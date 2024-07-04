@@ -443,6 +443,21 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/105.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",El Chavo del 8 24 Horas
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/106.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Peliculas Clasicas 24 Horas
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/221.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Cine Español
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/222.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Cine de Terror
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/223.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",FailArmy
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/224.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Peliculas del Oeste
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/225.m3u8
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vaughn.live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png",Los Simpsons 24 Horas
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/107.m3u8
@@ -599,6 +614,11 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/142.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ac053ce4a6c3786a71c23c36bfed028:b324da5a858840ee79ba4bc1df9ffd95
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/143.m3u8
+
+#EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-logo="https://i.imgur.com/pIaWvGU.png" tvg-group="Cine y Series",TCM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/220.m3u8
 
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://i.imgur.com/UWR7MRC.png" tvg-group="Cine y Series",Europa Europa
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -783,21 +803,6 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/181.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/182.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fd2e8019f37211ca8b78a8b656f1b83a":"273189c214e85b43ac36298d1c422330"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 2
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d5a3ac0b892bfccdf352b6def9cb2764":"ac0936acc0036fad2273efaa42b1fafd"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE 5 BR
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/nba.png" tvg-group="Deportes",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
@@ -895,6 +900,31 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/205.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fd2e8019f37211ca8b78a8b656f1b83a":"273189c214e85b43ac36298d1c422330"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 2
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9547f9aead1237c8a3b1bf0a91ed9995":"534fab4541fef31921dd970c65d51848"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 3
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ce5d18ffd68650affce1985201983ab7":"397c64e42507d95e5460830918c22a98"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 4
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d5a3ac0b892bfccdf352b6def9cb2764":"ac0936acc0036fad2273efaa42b1fafd"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE 5 BR
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",Sportv Premiere BR
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/201.m3u8
 
@@ -912,3 +942,69 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/203.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"95bd64227acf458daf7886f803d0298e":"79e28ee0ec58958bb666f9e53a0cd434"}
 #EXTINF:-1 tvg-id="Sextreme.ar" tvg-logo="https://i.imgur.com/x16lWX1.png" group-title="Adultos",Sextreme
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/204.m3u8
+
+#EXTINF:-1 xui-id="220582" tvg-id="" tvg-name="ES: BRAZZERS" tvg-logo="http://home-playtv.com:25461/images/476b5dccd11302b73a9e438d631cfe63.jpg" group-title="Adultos",ES: BRAZZERS
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD3xFYtwJbXZfKW6RoRbtj2s/ts
+
+#EXTINF:-1 xui-id="218787" tvg-id="" tvg-name="PORNBOX: MYLF" tvg-logo="http://daleplay.club:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqK5TTDbwjJUpgD_Oeadio43JKvbSF_RIFdLb2GLz0pgaPpQua0DhakP10WkwKOY1Jg.png" group-title="Adultos",PORNBOX: MYLF
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD7hWZ9dMe0_g6EX45SVEPnw/ts
+
+#EXTINF:-1 xui-id="220570" tvg-id="" tvg-name="XXX | Blonde(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Blonde(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD42OIyQQPzcSn9ex6ns5SSw/ts
+
+#EXTINF:-1 xui-id="220571" tvg-id="" tvg-name="XXX | Gangbang(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Gangbang(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD6k8FTAy3dYeg6qQg37dHWc/ts
+
+#EXTINF:-1 xui-id="220573" tvg-id="" tvg-name="XXX | Interracial HD(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Interracial HD(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD6Hgk7ZT_1XPOhiNW-AIjDA/ts
+
+#EXTINF:-1 xui-id="220575" tvg-id="" tvg-name="XXX | Lesbian HD(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Lesbian HD(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD11OI6zHUIk5SG7xYjWW2J4/ts
+
+#EXTINF:-1 xui-id="220576" tvg-id="" tvg-name="Live Cams" tvg-logo="http://127.0.0.1/" group-title="Adultos",Live Cams
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD5vy-LVKktoxezozzCE5QQs/ts
+
+#EXTINF:-1 xui-id="220579" tvg-id="" tvg-name="XXX | Russian HD(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Russian HD(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpDxoInzM7y7OVXMIwYqs2cX0/ts
+
+#EXTINF:-1 xui-id="220582" tvg-id="" tvg-name="ES: BRAZZERS" tvg-logo="http://home-playtv.com:25461/images/476b5dccd11302b73a9e438d631cfe63.jpg" group-title="Adultos",ES: BRAZZERS
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD3xFYtwJbXZfKW6RoRbtj2s/ts
+
+#EXTINF:-1 xui-id="220584" tvg-id="" tvg-name="XXX | | BRUNETTE | |" tvg-logo="http://home-playtv.com:25461/images/f9d721f9af81169e0f2c6578df532321.png" group-title="Adultos",XXX | | BRUNETTE | |
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD8riEGyKnJnYgLgkAIrCyvE/ts
+
+#EXTINF:-1 xui-id="220585" tvg-id="" tvg-name="XXX | RedTraffic Big Ass(Q)" tvg-logo="http://home-playtv.com:25461/images/268f3fd2e96cf5671eb950fa70cd36b0.png" group-title="Adultos",XXX | RedTraffic Big Ass(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD1hlx2NF-ipXMRjeN5RA2Ng/ts
+
+#EXTINF:-1 xui-id="220586" tvg-id="" tvg-name="XXX | RedTraffic Blowjob(Q)" tvg-logo="http://home-playtv.com:25461/images/b5a4f7507fc6b95038ee98a4576cbd58.png" group-title="Adultos",XXX | RedTraffic Blowjob(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD8DxapYH4bhRD6tNfdQStZ0/ts
+
+#EXTINF:-1 xui-id="220588" tvg-id="" tvg-name="XXX | BIPHORIA" tvg-logo="http://home-playtv.com:25461/images/2b489cc2da53e38d486e735128305cd5.png" group-title="Adultos",XXX | BIPHORIA
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD0vgoqzd1v5RQ_XyDR0nMKA/ts
+
+#EXTINF:-1 xui-id="220589" tvg-id="" tvg-name="XXX | RedTraffic Russian(Q)" tvg-logo="http://home-playtv.com:25461/images/f0d304081a53ee6a61dceb93ad2f88ec.png" group-title="Adultos",XXX | RedTraffic Russian(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD2tXaQPtBSJqJEUvMJ16ZP0/ts
+
+#EXTINF:-1 xui-id="220590" tvg-id="" tvg-name="XXX | Anal(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Anal(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD-StvdgPihNROQUr89qtlpQ/ts
+
+#EXTINF:-1 xui-id="220595" tvg-id="" tvg-name="XXX | Teen(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Teen(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD33ilZMGe32Uu5rgDJ_PmLk/ts
+
+#EXTINF:-1 xui-id="220597" tvg-id="" tvg-name="XXX | MILF(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | MILF(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpDyeOu3Z1kj85AvH62gw-O1g/ts
+
+#EXTINF:-1 xui-id="220599" tvg-id="" tvg-name="XXX | Latina (Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Latina (Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD19XF8IN8fLll8nDyDeWmpI/ts
+
+#EXTINF:-1 xui-id="220605" tvg-id="" tvg-name="XXX | Prime Clips HD(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Prime Clips HD(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD2LBAFktSZAsZHzpcw-bj9o/ts
+
+#EXTINF:-1 xui-id="220606" tvg-id="" tvg-name="XXX | Live Cams(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Live Cams(Q)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpDwhrus89xV8--jkJzuBADSo/ts
+
+#EXTINF:-1 xui-id="220617" tvg-id="" tvg-name="Adult mix 2(C)" tvg-logo="http://127.0.0.1/" group-title="Adultos",Adult mix 2(C)
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD7EfTtBaCg-oyTKGCXU1hyU/ts
+
+#EXTINF:-1 xui-id="220648" tvg-id="" tvg-name="**BIG ASS**" tvg-logo="http://daleplay.club:8080/images/9547d8af361fd294e6c81abe322b4501.png" group-title="Adultos",**BIG ASS**
+http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD4s3gay2mV2tA6WPoOa_ujM/ts
