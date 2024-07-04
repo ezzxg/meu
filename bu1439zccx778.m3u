@@ -443,6 +443,21 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/105.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",El Chavo del 8 24 Horas
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/106.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Peliculas Clasicas 24 Horas
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/221.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Cine Español
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/222.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Cine de Terror
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/223.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",FailArmy
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/224.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Peliculas del Oeste
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/225.m3u8
+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vaughn.live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png",Los Simpsons 24 Horas
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/107.m3u8
@@ -599,6 +614,11 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/142.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ac053ce4a6c3786a71c23c36bfed028:b324da5a858840ee79ba4bc1df9ffd95
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/143.m3u8
+
+#EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-logo="https://i.imgur.com/pIaWvGU.png" tvg-group="Cine y Series",TCM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/220.m3u8
 
 #EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://i.imgur.com/UWR7MRC.png" tvg-group="Cine y Series",Europa Europa
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -783,21 +803,6 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/181.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f19c3a8c638d52c2ab77b9566bcb2996:7400a9f905f172d5d74d7dc440724c8e
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/182.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fd2e8019f37211ca8b78a8b656f1b83a":"273189c214e85b43ac36298d1c422330"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 2
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d5a3ac0b892bfccdf352b6def9cb2764":"ac0936acc0036fad2273efaa42b1fafd"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE 5 BR
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://television-libre.online/img/nba.png" tvg-group="Deportes",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
@@ -892,6 +897,31 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/200.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"00362452ed102000ccea64c311921dc2":"02f27bd6caab7633d3083b94d3958b1c"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Deportes",SkySports UNO IT
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/205.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fd2e8019f37211ca8b78a8b656f1b83a":"273189c214e85b43ac36298d1c422330"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 2
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9547f9aead1237c8a3b1bf0a91ed9995":"534fab4541fef31921dd970c65d51848"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 3
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ce5d18ffd68650affce1985201983ab7":"397c64e42507d95e5460830918c22a98"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 4
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d5a3ac0b892bfccdf352b6def9cb2764":"ac0936acc0036fad2273efaa42b1fafd"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE 5 BR
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
