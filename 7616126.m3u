@@ -290,9 +290,6 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/66.m3u8
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/67.m3u8
 
-#EXTINF:-1 tvg-id="toplatino.cl" tvg-logo="https://i.imgur.com/uT8N1mA.png" tvg-group="Música",TOP Latino
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/68.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vHgOIB5.png" tvg-group="Música",Vevo POP
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/69.m3u8
 
@@ -474,17 +471,17 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Empeños a lo bestia 24 Horas
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/111.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Misterios Medicos 24 Horas
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-666b7e1f-676d-41c0-92ee-fcc032f6f20c&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=b1a019a8-28f7-4879-8ad4-18701518a771&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Cazador de Homicidas
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/112.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Historias de Ultratumba 24 Horas
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/2142297/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-0c9f6d47-633b-4155-864c-9da620032552&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=cfba2db2-5042-4fda-b7c3-1165ab87250b&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/113.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Archivos Extraterrestres 24 Horas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645d1abbe1979c0008779d5a/2142297/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-976c7679-908b-4f7e-a4ce-453179835f45&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=294c3d05-03bd-4436-bcea-9aba98f196a4&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",MTV Embarazada a los 16 24 Horas
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/114.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Misterios sin Resolver 24 Horas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-5a772edf-593d-4446-aca0-b99948e8a0d6&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=0195aecb-267a-488b-ae0e-9b3e78d2087c&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Zoe 101 24 Horas
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/115.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5317283f4110fac3fb3a0becd9f648bc":"0754a03c926b1247216e01d9dbcfac28"}
@@ -770,16 +767,24 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/174.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/175.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKJ3sZ6.png" tvg-group="DEPORTES", FINAL: ARGENTINA vs COLOMBIA 21hs
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/171.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKJ3sZ6.png" tvg-group="DEPORTES", FINAL: ARGENTINA vs COLOMBIA 21hs
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/214.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aKJ3sZ6.png" tvg-group="DEPORTES", FINAL: ARGENTINA vs COLOMBIA 21hs
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/215.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKJ3sZ6.png" tvg-group="DEPORTES", Copa America 1
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/214.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aKJ3sZ6.png" tvg-group="DEPORTES", Copa America 2
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/215.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 1 [Disney+]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 1 (Disney+)
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/178.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 2 [Disney+]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 2 (Disney+)
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/179.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -892,119 +897,3 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/199.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/200.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"00362452ed102000ccea64c311921dc2":"02f27bd6caab7633d3083b94d3958b1c"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Deportes",SkySports UNO IT
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/205.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fd2e8019f37211ca8b78a8b656f1b83a":"273189c214e85b43ac36298d1c422330"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 2
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9547f9aead1237c8a3b1bf0a91ed9995":"534fab4541fef31921dd970c65d51848"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 3
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ce5d18ffd68650affce1985201983ab7":"397c64e42507d95e5460830918c22a98"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE BR 4
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d5a3ac0b892bfccdf352b6def9cb2764":"ac0936acc0036fad2273efaa42b1fafd"}
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DOxbsOV.jpeg",PREMIERE 5 BR
-https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Deportes",Sportv Premiere BR
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/201.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8577d81eaf33436d9f1e482360685a7c":"f608a0ac703cfaaf9442574d9a2b87fb"}
-#EXTINF:-1 tvg-id="Playboy.TV.Latin.America.and.Iberia.(PLYBY).ar" tvg-logo="https://cdn.pixabay.com/photo/2012/04/26/13/58/playboy-42527_960_720.png" group-title="Adultos",Playboy HD
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/202.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"34237d2ae6684ee7a011f5b9c7c43e6d":"05d973d987915120e567880f50a422af"}
-#EXTINF:-1 tvg-id="Venus.International.(VENUS).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/640px-Canal_Venus_logo.svg.png" group-title="Adultos",Venus
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/203.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"95bd64227acf458daf7886f803d0298e":"79e28ee0ec58958bb666f9e53a0cd434"}
-#EXTINF:-1 tvg-id="Sextreme.ar" tvg-logo="https://i.imgur.com/x16lWX1.png" group-title="Adultos",Sextreme
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/204.m3u8
-
-#EXTINF:-1 xui-id="220582" tvg-id="" tvg-name="ES: BRAZZERS" tvg-logo="http://home-playtv.com:25461/images/476b5dccd11302b73a9e438d631cfe63.jpg" group-title="Adultos",ES: BRAZZERS
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD3xFYtwJbXZfKW6RoRbtj2s/ts
-
-#EXTINF:-1 xui-id="218787" tvg-id="" tvg-name="PORNBOX: MYLF" tvg-logo="http://daleplay.club:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqK5TTDbwjJUpgD_Oeadio43JKvbSF_RIFdLb2GLz0pgaPpQua0DhakP10WkwKOY1Jg.png" group-title="Adultos",PORNBOX: MYLF
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD7hWZ9dMe0_g6EX45SVEPnw/ts
-
-#EXTINF:-1 xui-id="220570" tvg-id="" tvg-name="XXX | Blonde(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Blonde(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD42OIyQQPzcSn9ex6ns5SSw/ts
-
-#EXTINF:-1 xui-id="220571" tvg-id="" tvg-name="XXX | Gangbang(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Gangbang(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD6k8FTAy3dYeg6qQg37dHWc/ts
-
-#EXTINF:-1 xui-id="220573" tvg-id="" tvg-name="XXX | Interracial HD(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Interracial HD(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD6Hgk7ZT_1XPOhiNW-AIjDA/ts
-
-#EXTINF:-1 xui-id="220575" tvg-id="" tvg-name="XXX | Lesbian HD(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Lesbian HD(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD11OI6zHUIk5SG7xYjWW2J4/ts
-
-#EXTINF:-1 xui-id="220576" tvg-id="" tvg-name="Live Cams" tvg-logo="http://127.0.0.1/" group-title="Adultos",Live Cams
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD5vy-LVKktoxezozzCE5QQs/ts
-
-#EXTINF:-1 xui-id="220579" tvg-id="" tvg-name="XXX | Russian HD(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Russian HD(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpDxoInzM7y7OVXMIwYqs2cX0/ts
-
-#EXTINF:-1 xui-id="220582" tvg-id="" tvg-name="ES: BRAZZERS" tvg-logo="http://home-playtv.com:25461/images/476b5dccd11302b73a9e438d631cfe63.jpg" group-title="Adultos",ES: BRAZZERS
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD3xFYtwJbXZfKW6RoRbtj2s/ts
-
-#EXTINF:-1 xui-id="220584" tvg-id="" tvg-name="XXX | | BRUNETTE | |" tvg-logo="http://home-playtv.com:25461/images/f9d721f9af81169e0f2c6578df532321.png" group-title="Adultos",XXX | | BRUNETTE | |
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD8riEGyKnJnYgLgkAIrCyvE/ts
-
-#EXTINF:-1 xui-id="220585" tvg-id="" tvg-name="XXX | RedTraffic Big Ass(Q)" tvg-logo="http://home-playtv.com:25461/images/268f3fd2e96cf5671eb950fa70cd36b0.png" group-title="Adultos",XXX | RedTraffic Big Ass(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD1hlx2NF-ipXMRjeN5RA2Ng/ts
-
-#EXTINF:-1 xui-id="220586" tvg-id="" tvg-name="XXX | RedTraffic Blowjob(Q)" tvg-logo="http://home-playtv.com:25461/images/b5a4f7507fc6b95038ee98a4576cbd58.png" group-title="Adultos",XXX | RedTraffic Blowjob(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD8DxapYH4bhRD6tNfdQStZ0/ts
-
-#EXTINF:-1 xui-id="220588" tvg-id="" tvg-name="XXX | BIPHORIA" tvg-logo="http://home-playtv.com:25461/images/2b489cc2da53e38d486e735128305cd5.png" group-title="Adultos",XXX | BIPHORIA
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD0vgoqzd1v5RQ_XyDR0nMKA/ts
-
-#EXTINF:-1 xui-id="220589" tvg-id="" tvg-name="XXX | RedTraffic Russian(Q)" tvg-logo="http://home-playtv.com:25461/images/f0d304081a53ee6a61dceb93ad2f88ec.png" group-title="Adultos",XXX | RedTraffic Russian(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD2tXaQPtBSJqJEUvMJ16ZP0/ts
-
-#EXTINF:-1 xui-id="220590" tvg-id="" tvg-name="XXX | Anal(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Anal(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD-StvdgPihNROQUr89qtlpQ/ts
-
-#EXTINF:-1 xui-id="220595" tvg-id="" tvg-name="XXX | Teen(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Teen(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD33ilZMGe32Uu5rgDJ_PmLk/ts
-
-#EXTINF:-1 xui-id="220597" tvg-id="" tvg-name="XXX | MILF(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | MILF(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpDyeOu3Z1kj85AvH62gw-O1g/ts
-
-#EXTINF:-1 xui-id="220599" tvg-id="" tvg-name="XXX | Latina (Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Latina (Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD19XF8IN8fLll8nDyDeWmpI/ts
-
-#EXTINF:-1 xui-id="220605" tvg-id="" tvg-name="XXX | Prime Clips HD(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Prime Clips HD(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD2LBAFktSZAsZHzpcw-bj9o/ts
-
-#EXTINF:-1 xui-id="220606" tvg-id="" tvg-name="XXX | Live Cams(Q)" tvg-logo="http://127.0.0.1/" group-title="Adultos",XXX | Live Cams(Q)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpDwhrus89xV8--jkJzuBADSo/ts
-
-#EXTINF:-1 xui-id="220617" tvg-id="" tvg-name="Adult mix 2(C)" tvg-logo="http://127.0.0.1/" group-title="Adultos",Adult mix 2(C)
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD7EfTtBaCg-oyTKGCXU1hyU/ts
-
-#EXTINF:-1 xui-id="220648" tvg-id="" tvg-name="**BIG ASS**" tvg-logo="http://daleplay.club:8080/images/9547d8af361fd294e6c81abe322b4501.png" group-title="Adultos",**BIG ASS**
-http://novared.pro:80/play/JlH7YVaMgVrqdHUkNbDpD4s3gay2mV2tA6WPoOa_ujM/ts
