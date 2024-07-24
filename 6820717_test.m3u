@@ -767,6 +767,9 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/174.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/175.m3u8
 
+#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://res.cloudinary.com/dq4uxsxpv/image/upload/south-america-copa-sudamericana.webp" tvg-group="Deportes",⭐Boca vs Independiente del Valle⭐
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/228.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 1 [Disney+]
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/178.m3u8
 
