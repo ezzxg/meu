@@ -1,4 +1,4 @@
-#EXTINF:-1 x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz" tvg-logo="https://i.imgur.com/gDvf2Tz.png" tvg-id="Telefe.(TELFE2).ar" group-title="Nacionales", Telefe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDvf2Tz.png" tvg-id="Telefe.(TELFE2).ar" group-title="Nacionales", Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/2.m3u8
 
@@ -471,21 +471,21 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Empeños a lo bestia 24 Horas
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/111.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Misterios Medicos 24 Horas
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-666b7e1f-676d-41c0-92ee-fcc032f6f20c&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=b1a019a8-28f7-4879-8ad4-18701518a771&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Zoe 101 24 Horas
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/115.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Historias de Ultratumba 24 Horas
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d3696d938c900072679fd/2142297/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-0c9f6d47-633b-4155-864c-9da620032552&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=cfba2db2-5042-4fda-b7c3-1165ab87250b&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Embarazada a los 16 MTV 24 Horas
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/114.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Archivos Extraterrestres 24 Horas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/645d1abbe1979c0008779d5a/2142297/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-976c7679-908b-4f7e-a4ce-453179835f45&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=294c3d05-03bd-4436-bcea-9aba98f196a4&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",	Pluto Paranormal 24 Horas
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/113.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Misterios sin Resolver 24 Horas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-5a772edf-593d-4446-aca0-b99948e8a0d6&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=0195aecb-267a-488b-ae0e-9b3e78d2087c&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Cazador de Homicidas 24hs
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/112.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5317283f4110fac3fb3a0becd9f648bc":"0754a03c926b1247216e01d9dbcfac28"}
-#EXTINF:-1 tvg-id="HBO.Latin.America.(East).(HBO).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Peliculas",HBO HD
+#EXTINF:-1 tvg-id="HBO.Latin.America.(East).(HBO).ar" tvg-logo="https://i.imgur.com/u8ncxg9.png" group-title="Peliculas",HBO HD
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/117.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -576,11 +576,17 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/134.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/135.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Golden_TV_logo.png" tvg-group="Cine y Series",Golden HD
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/230.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" tvg-group="Cine y Series",Golden Plus
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/136.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-group="Cine y Series",Golden Premiere
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/137.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-group="Cine y Series",Golden Edge
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/231.m3u8
 
 #EXTINF:-1 tvg-id="truTV.HDTV.(Latin.America).(TRUTVD).ar" tvg-logo="https://i.imgur.com/NDmVZwK.png" group-title="Entretenimiento",Adult Swim
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -767,14 +773,16 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/174.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/175.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://res.cloudinary.com/dq4uxsxpv/image/upload/south-america-copa-sudamericana.webp" tvg-group="Deportes",⭐Boca vs Independiente del Valle⭐
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/228.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 1 [Disney+]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺 EVENTOS Disney+ & DirecTV 📺 (1)
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/178.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", EVENTOS 2 [Disney+]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺 EVENTOS Disney+ & DirecTV 📺 (2)
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/179.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺 EVENTOS Disney+ & DirecTV 📺 (3)
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/229.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
@@ -789,18 +797,12 @@ https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/SA_Live_dash_enc/Eventos1HD.mpd
 #EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="Deportes",MLS
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/180.m3u8
 
-#EXTINF:-1 tvg-logo="https://messi7.com/img/dsports.webp" group-title="Deportes",DSports
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/181.m3u8
-
-#EXTINF:-1 tvg-logo="https://messi7.com/img/dsportsplus.webp" tvg-group="Deportes",DSports 2
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/182.m3u8
-
-#EXTINF:-1 tvg-logo="https://messi7.com//img/nba.png" tvg-group="Deportes",NBA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hGWYgPK.png" tvg-group="Deportes",NBA TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/185.m3u8
 
-#EXTINF:-1 tvg-logo="https://messi7.com/7OnVv8y.png" tvg-group="Deportes",VTV Uruguay
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88LYZCx.png" tvg-group="Deportes",VTV Uruguay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/187.m3u8
