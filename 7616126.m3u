@@ -1,3 +1,8 @@
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://app.restream.io
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://app.restream.io/
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Clipart.png", CANAL DE PRUEBA 240
+http://149.50.140.120/live/EE0BF6582862DB1F9769F186ABC8B5AC/240.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDvf2Tz.png" tvg-id="Telefe.(TELFE2).ar" group-title="Nacionales", Telefe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/2.m3u8
@@ -10,7 +15,7 @@ https://cdn.sensa.com.ar//live/eds/Telefe/live_dash_cld/Telefe.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3cec1b1ea9799dda5596e64f37e5ed20":"c69f3afde2085dcaaaddbf55246a0323"}
-#EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-logo="https://i.imgur.com/gDvf2Tz.png" group-title="Nacionales",Telefe (Opcion 2)
+#EXTINF:-1 tvg-id="Telefe.(TELFE2).ar" tvg-logo="https://i.imgur.com/gDvf2Tz.png" group-title="Nacionales",Telefe (Opcion 3)
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/213.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmJ3vVY.png"  tvg-id="El.Trece.(Canal.13).(CNL13).ar" group-title="Nacionales",El Trece
@@ -203,9 +208,6 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/41.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"b37d85be9d2b4b619f945beff713fda3":"917309c98f072b0bd484dd6560c6d166"}
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Internacionales",El canal de las Estrellas
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mxha5xY.png" tvg-group="MX",Canal 5 MX
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/43.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png" tvg-group="MX",ADN 40
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/44.m3u8
@@ -495,10 +497,10 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/225.m3u8
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/107.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",COPS 24 Horas
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/108.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Cheaters En Español 24 horas
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff/variant.m3u8?url=c0ddc4afa8be1153995812e809f7cab4-3c81875f5f5578f22fdcf5867ad9bd42271ce7181c3932fa2114b358a46c69a3716eb59568c4867de59ee3edcfe168b1845e46c5bbec4be3f9930474191e312c37443031f8f934067ded3271485e23fb2b2d7b3cd371f39f3205dacad1dade00a1a0c78c3aaf1e5bf09fd15528e2a2a90d31a21081c2b49aef7ffc8b1a14bfeedfc7e5f9d1b04d54b82b9fed76ae2ffdd8fc5972a87155ae6ed7b76e40fb4b53&x-plex-token=o5a2yUy6-5dxEobb4W8a&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1715000997
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/109.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvkeBBW.png" tvg-group="24 Horas",Dog el cazarrecompensas 24 Horas
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
@@ -578,6 +580,11 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/127.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/128.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://wv-client.cvattv.com.ar?deviceId=ZWIzMDE5Y2UzNWQ5NDc2NGVlMjZkZDA4NjI3Mjc2ODM=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Sony Movies
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/234.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gze7lwy.png" tvg-group="Cine y Series",Sony Competencias
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/129.m3u8
 
@@ -611,16 +618,16 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/134.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/135.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Golden_TV_logo.png" tvg-group="Cine y Series",Golden HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="Cine y Series",Golden HD
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/230.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOEkyM2.png" tvg-group="Cine y Series",Golden Plus
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/136.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-group="Cine y Series",Golden Premiere
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/137.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-group="Cine y Series",Golden Edge
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-group="Cine y Series",Golden Edge HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey						
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/231.m3u8
 
 #EXTINF:-1 tvg-id="truTV.HDTV.(Latin.America).(TRUTVD).ar" tvg-logo="https://i.imgur.com/NDmVZwK.png" group-title="Entretenimiento",Adult Swim
@@ -721,7 +728,7 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/156.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" group-title="Deportes",TyC Sports🔸FullHD🔸
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" group-title="Deportes",TyC Sports FULL HD
 https://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd
  
 #EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="Deportes",TyC Sports Internacional
@@ -748,6 +755,12 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/160.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/161.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVXciO2.png" group-title="Deportes",Fox Sports Full HD
+http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/241.m3u8
  
 #EXTINF:-1 tvg-id="FoxSports2Argentina" tvg-logo="https://i.imgur.com/dZtyngf.png" tvg-group="Deportes",FOX Sports 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -763,6 +776,11 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/163.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/164.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0aab4bd18144c7316c35c74ccce96ddc":"3e6db98d9df4747108bd896cba0be57d"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" group-title="Deportes",ESPN PY
+http://chromecast.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd
 
 #EXTINF:-1 tvg-id="ESPN2Argentina" tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="Deportes",ESPN 2 Argentina
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -794,7 +812,7 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/169.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/170.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Argentina HD
+#EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium FULL HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257 
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/172.m3u8
@@ -802,7 +820,7 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/172.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" group-title="Deportes",ESPN Premium🔸FullHD🔸
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" group-title="Deportes",ESPN Premium FULL HD (Respaldo)
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/232.m3u8
  
 #EXTINF:-1 tvg-id="ESPN.PREMIUM.ar" tvg-logo="https://i.imgur.com/oPH8V9c.png" tvg-group="Deportes",ESPN Premium Argentina (SD)
@@ -810,26 +828,41 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/232.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/173.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina HD
+#EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina FULL HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/174.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c26371079e89206d63e1454893e881b6":"adac3c3b3774e411d6e49724f7ea0ee3"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oPH8V9c.png" group-title="Deportes",TNT Sports FULL HD (Respaldo)
+https://cdn.sensa.com.ar/live/eds/TNTSports/live_dash_cld/TNTSports.mpd
 
 #EXTINF:-1 tvg-id="TNT.Premium.ar" tvg-logo="https://i.imgur.com/84erChI.png" tvg-group="Deportes",TNT Sports Argentina (SD)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/175.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺 EVENTOS Disney+ & DirecTV 📺 (1)
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/178.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"54ef857b74c0c6e37b04022a87708382":"712ca8c470e9ff4f08915e7a7d91ff33"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGXdb1I.png" group-title="Deportes", BeIn Sports Ñ En Español
+http://149.50.140.120:80/live/EE0BF6582862DB1F9769F186ABC8B5AC/242.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺 EVENTOS Disney+ & DirecTV 📺 (2)
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/179.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEVMHk4.png" group-title="Deportes",BeIn Sports Xtra En Español
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺 EVENTOS Disney+ & DirecTV 📺 (3)
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/229.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺EVENTOS📺 (1)
+http://149.50.140.120:80/live/EE0BF6582862DB1F9769F186ABC8B5AC/236.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺EVENTOS📺 (2)
+http://149.50.140.120:80/live/EE0BF6582862DB1F9769F186ABC8B5AC/237.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="DEPORTES", 📺EVENTOS📺 (3)
+http://149.50.140.120:80/live/EE0BF6582862DB1F9769F186ABC8B5AC/238.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png", 📺Eventos 📺 (4)
+http://149.50.140.120:80/live/EE0BF6582862DB1F9769F186ABC8B5AC/239.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
@@ -904,11 +937,6 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/192.m3u8
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b834b0f0c2bfee80ac:76b3afbf163f9c3feb6204b8fcf0ff53
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/193.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J56BTYk.jpeg" tvg-group="Deportes",Sky Sports Calcio IT
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KwOpHD7.jpeg" tvg-group="Deportes",SSC Sport 1 SA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -938,11 +966,6 @@ http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/199.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/200.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"00362452ed102000ccea64c311921dc2":"02f27bd6caab7633d3083b94d3958b1c"}
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sky_Sport_Uno_-_Logo_2018.svg/1280px-Sky_Sport_Uno_-_Logo_2018.svg.png" group-title="Deportes",SkySports UNO IT
-http://149.50.140.120:80/hackmeestaputo/hackmeestaputo/205.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"d98239180d8380b3a1bb28d875b1ddf2":"cf836ced579257d1c76ae8809818e6c4"}
