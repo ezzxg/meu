@@ -1,4 +1,0 @@
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://app.restream.io
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://app.restream.io/
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2018/04/Under-Construction-PNG-Clipart.png", CANAL DE PRUEBA 240
-http://149.50.140.120/live/EE0BF6582862DB1F9769F186ABC8B5AC/1.m3u8
