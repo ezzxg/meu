@@ -5,6 +5,12 @@ http://45.172.16.186:9981/stream/channel/fd237f07d2c3ccd659914d7c94d4f9a5?profil
 #EXTINF:-1,TN
 http://45.172.16.186:9981/stream/channel/76ed5766480fe668bffd061eef05f3cb?profile=pass
 
+#EXTINF:-1,C5N
+http://45.172.16.186:9981/stream/channel/c3558b8b5481c785c7af987c8eba46b4?profile=pass
+
+#EXTINF:-1,Cronica
+http://45.172.16.186:9981/stream/channel/5c043e6d3de16d190f03a49a8420a443?profile=pass
+
 #EXTINF:-1,America
 http://45.172.16.186:9981/stream/channel/8797dc48b5602b8ee9545c1c63ef0ae9?profile=pass
 
