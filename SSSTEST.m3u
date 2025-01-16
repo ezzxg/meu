@@ -9,3 +9,11 @@ http://45.172.16.186:9981/stream/channel/8955ace5bf145cadce84839d40de372f?profil
 #EXTINF:-1,ESPN 2
 http://45.172.16.186:9981/stream/channel/1fada149758d631001308e92d10199fa?profile=pass
 
+#EXTINF:-1,ESPN 3
+http://45.172.16.186:9981/stream/channel/65d5ac764a07fc4815d075a2bf8ecf19?profile=pass
+
+#EXTINF:-1,ESPN 4
+http://45.172.16.186:9981/stream/channel/80318a7d3216ea170275469435d16788?profile=pass
+
+#EXTINF:-1,ESPN Premium
+http://45.172.16.186:9981/stream/channel/9255e5a5efbe9f20a400974dbf9a7fa0?profile=pass
