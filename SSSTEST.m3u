@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="610#DSPORTS (PER)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png", D Sports
-http://161.132.54.176:8000/play/a00t/index.m3u8 
+#EXTINF:-1, DSports
+http://161.132.54.176:8000/play/a00t/index.m3u8
 
-#EXTINF:-1 ch-number="12" tvg-id="eldoce tvg-name="135#El Doce CANAL 12 DE CORDOBA" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", El Doce Córdoba
-http://cdn.tvar.io/get-yt.m3u8?ch=@eldoce&tokenjwt=7xwREEppaX6fgv77vonj2g==
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="Córdoba", TEST
+#EXTINF:-1,ESPN HD
 http://45.172.16.186:9981/stream/channel/8955ace5bf145cadce84839d40de372f?profile=pass
+
+#EXTINF:-1,ESPN 2
+http://45.172.16.186:9981/stream/channel/1fada149758d631001308e92d10199fa?profile=pass
+
