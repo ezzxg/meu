@@ -85,7 +85,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOPop",HBO POP
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
-#EXTINF:--1 tvg-id="HBOExtrene",HBO Xtreme
+#EXTINF:-1,HBO Xtreme
 https://is-tucuman.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOMundi",HBO Mundi
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
