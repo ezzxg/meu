@@ -1,90 +1,107 @@
 #EXTM3U
-#EXTINF:-1,TV Publica
-http://45.172.16.186:9981/stream/channel/fd237f07d2c3ccd659914d7c94d4f9a5?profile=pass
 
-#EXTINF:-1,TN
-http://45.172.16.186:9981/stream/channel/76ed5766480fe668bffd061eef05f3cb?profile=pass
-
-#EXTINF:-1,C5N
-http://45.172.16.186:9981/stream/channel/c3558b8b5481c785c7af987c8eba46b4?profile=pass
-
-#EXTINF:-1,Cronica
-http://45.172.16.186:9981/stream/channel/5c043e6d3de16d190f03a49a8420a443?profile=pass
-
+#EXTM3U
+#EXTINF:-1,26 TV
+http://190.94.186.158:8000/play/a0bp/index.m3u8
 #EXTINF:-1,America
 http://45.172.16.186:9981/stream/channel/8797dc48b5602b8ee9545c1c63ef0ae9?profile=pass
-
+#EXTINF:-1,El Trece
+http://45.172.16.186:9981/stream/channel/8797dc48b5602b8ee9545c1c63ef0ae9?profile=pass
+#EXTINF:-1,El Doce Cordoba
+https://delivery.cdn.rcs.net.ar/iptelva/ch12cba_hls/playlist.m3u8
+#EXTINF:-1,Canal 10 Cordoba
+https://delivery.cdn.rcs.net.ar/iptelva/ch10cba_hls/playlist.m3u8
+#EXTINF:-1,A 24
+http://190.94.186.158:8000/play/a0bq/index.m3u8
+#EXTINF:-1,C5N
+http://190.94.186.158:8000/play/a0bn/index.m3u8
+#EXTINF:-1,CNN Esp
+http://190.94.186.158:8000/play/a0bf/index.m3u8
+#EXTINF:-1,Canal Rural
+http://190.94.186.158:8000/play/a0bi/index.m3u8
+#EXTINF:-1,Ciudad Magazine
+http://190.94.186.158:8000/play/a0br/index.m3u8
+#EXTINF:-1,Cronica TV
+http://190.94.186.158:8000/play/a0bo/index.m3u8
+#EXTINF:-1,Estrellas
+http://190.94.186.158:8000/play/a0bd/index.m3u8
+#EXTINF:-1,Film and Arts
+http://190.94.186.158:8000/play/a0bj/index.m3u8
+#EXTINF:-1,La Nacion HD
+http://190.94.186.158:8000/play/a0bm/index.m3u8
+#EXTINF:-1,Lifetime
+http://190.94.186.158:8000/play/a0bg/index.m3u8
+#EXTINF:-1,NET TV
+http://190.94.186.158:8000/play/a0bs/index.m3u8
+#EXTINF:-1,TLC
+http://190.94.186.158:8000/play/a0bh/index.m3u8
+#EXTINF:-1,TN
+http://190.94.186.158:8000/play/a0bl/index.m3u8
+#EXTINF:-1,TV Publica
+http://45.172.16.186:9981/stream/channel/fd237f07d2c3ccd659914d7c94d4f9a5?profile=pass
+#EXTINF:-1,TN
+http://45.172.16.186:9981/stream/channel/76ed5766480fe668bffd061eef05f3cb?profile=pass
+#EXTINF:-1,C5N
+http://45.172.16.186:9981/stream/channel/c3558b8b5481c785c7af987c8eba46b4?profile=pass
+#EXTINF:-1,Cronica
+http://45.172.16.186:9981/stream/channel/5c043e6d3de16d190f03a49a8420a443?profile=pass
 #EXTINF:-1,A&E
 http://45.172.16.186:9981/stream/channel/e2c4527543707974149d665715da7331?profile=pass
-
 #EXTINF:-1,Adult swim
 http://45.172.16.186:9981/stream/channel/8b302ccbbe5e58e16e7110712fbcbbd8?profile=pass
-
 #EXTINF:-1,AMC
 http://45.172.16.186:9981/stream/channel/f75ecd53599343147e377f3aa2bf8cff?profile=pass
-
 #EXTINF:-1,AXN
 http://45.172.16.186:9981/stream/channel/7c091d47a1afa5aad3ac559748375d16?profile=pass
-
 #EXTINF:-1,Cinecanal
 http://45.172.16.186:9981/stream/channel/cfc1372c2a9a12aa6d05729e55e59fc6?profile=pass
-
 #EXTINF:-1,Cinemax
 http://45.172.16.186:9981/stream/channel/6869a9b428d23260f522cbf4008b0512?profile=pass
-
 #EXTINF:-1,Comedy Central
 http://45.172.16.186:9981/stream/channel/fc6e6b3c6eb8cd16e08e502e9924718d?profile=pass
-
 #EXTINF:-1,Sony Channel
 http://45.172.16.186:9981/stream/channel/e9373c2945133bb349363264b4a94a40?profile=pass
-
 #EXTINF:-1,Sony Movies
 http://45.172.16.186:9981/stream/channel/155a65f35c627d235ece25fc91745866?profile=pass
-
 #EXTINF:-1,Star Channel
 http://45.172.16.186:9981/stream/channel/ddc94e5aeea51fc411dc613d6f130bf7?profile=pass
-
 #EXTINF:-1,Space
 http://45.172.16.186:9981/stream/channel/165205f42fc39ae9d64852ea9155d3c8?profile=pass
-
 #EXTINF:-1,Studio Universal
 http://45.172.16.186:9981/stream/channel/b263073026ba283d87887cdb1dbc3b86?profile=pass
-
 #EXTINF:-1,FX
 http://45.172.16.186:9981/stream/channel/15e0ae6662a8c5897f5e5a17ceef1eef?profile=pass
-
 #EXTINF:-1,Paramount
 http://45.172.16.186:9981/stream/channel/70e336de44802173369fecbcd8fc5088?profile=pass
-
 #EXTINF:-1,TCM
 http://45.172.16.186:9981/stream/channel/062996355843cb038c03b23cf12e2d9a?profile=pass
-
 #EXTINF:-1,TNT
 http://45.172.16.186:9981/stream/channel/5631fa69151a03128a08e83f72c5cae3?profile=pass
-
 #EXTINF:-1,TNT Series
 http://45.172.16.186:9981/stream/channel/fc6e6b3c6eb8cd16e08e502e9924718d?profile=pass
-
+#EXTINF:-1 tvg-id="HBOFamily",HBO Family
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOPlus",HBO Plus
+https://is-tucuman.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOPop",HBO POP
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+#EXTINF:--1 tvg-id="HBOExtrene",HBO Xtreme
+https://is-tucuman.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOMundi",HBO Mundi
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 #EXTINF:-1,TyC Sports
 http://45.172.16.186:9981/stream/channel/d3d50c7e24477a224cff2824e45c8393?profile=pass
-
 #EXTINF:-1, DSports
 http://161.132.54.176:8000/play/a00t/index.m3u8
-
 #EXTINF:-1,ESPN HD
 http://45.172.16.186:9981/stream/channel/8955ace5bf145cadce84839d40de372f?profile=pass
-
 #EXTINF:-1,ESPN 2
 http://45.172.16.186:9981/stream/channel/1fada149758d631001308e92d10199fa?profile=pass
-
 #EXTINF:-1,ESPN 3
 http://45.172.16.186:9981/stream/channel/65d5ac764a07fc4815d075a2bf8ecf19?profile=pass
-
 #EXTINF:-1,ESPN 4
 http://45.172.16.186:9981/stream/channel/80318a7d3216ea170275469435d16788?profile=pass
-
 #EXTINF:-1,ESPN Premium
 http://45.172.16.186:9981/stream/channel/9255e5a5efbe9f20a400974dbf9a7fa0?profile=pass
-
 #EXTINF:-1,TNT Sports
 http://45.172.16.186:9981/stream/channel/f0720b990f25730a746642cb15988ca2?profile=pass
