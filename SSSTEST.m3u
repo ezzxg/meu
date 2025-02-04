@@ -6,7 +6,7 @@ http://190.94.186.158:8000/play/a0bp/index.m3u8
 #EXTINF:-1,America
 http://45.172.16.186:9981/stream/channel/8797dc48b5602b8ee9545c1c63ef0ae9?profile=pass
 #EXTINF:-1,El Trece
-http://45.172.16.186:9981/stream/channel/8797dc48b5602b8ee9545c1c63ef0ae9?profile=pass
+https://is-tucuman.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-1,El Doce Cordoba
 https://delivery.cdn.rcs.net.ar/iptelva/ch12cba_hls/playlist.m3u8
 #EXTINF:-1,Canal 10 Cordoba
@@ -65,12 +65,16 @@ http://45.172.16.186:9981/stream/channel/e9373c2945133bb349363264b4a94a40?profil
 http://45.172.16.186:9981/stream/channel/155a65f35c627d235ece25fc91745866?profile=pass
 #EXTINF:-1,Star Channel
 http://45.172.16.186:9981/stream/channel/ddc94e5aeea51fc411dc613d6f130bf7?profile=pass
+#EXTINF:-1,Star Channel (1080p)
+https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1,Space
 http://45.172.16.186:9981/stream/channel/165205f42fc39ae9d64852ea9155d3c8?profile=pass
 #EXTINF:-1,Studio Universal
 http://45.172.16.186:9981/stream/channel/b263073026ba283d87887cdb1dbc3b86?profile=pass
 #EXTINF:-1,FX
 http://45.172.16.186:9981/stream/channel/15e0ae6662a8c5897f5e5a17ceef1eef?profile=pass
+#EXTINF:-1,FX (1080p)
+https://is-tucuman.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1,Paramount
 http://45.172.16.186:9981/stream/channel/70e336de44802173369fecbcd8fc5088?profile=pass
 #EXTINF:-1,TCM
@@ -80,15 +84,15 @@ http://45.172.16.186:9981/stream/channel/5631fa69151a03128a08e83f72c5cae3?profil
 #EXTINF:-1,TNT Series
 http://45.172.16.186:9981/stream/channel/fc6e6b3c6eb8cd16e08e502e9924718d?profile=pass
 #EXTINF:-1 tvg-id="HBOFamily",HBO Family
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 #EXTINF:-1 tvg-id="HBOPlus",HBO Plus
-https://is-tucuman.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1 tvg-id="HBOPop",HBO POP
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1,HBO Xtreme
-https://is-tucuman.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 #EXTINF:-1 tvg-id="HBOMundi",HBO Mundi
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 #EXTINF:-1,TyC Sports
 http://45.172.16.186:9981/stream/channel/d3d50c7e24477a224cff2824e45c8393?profile=pass
 #EXTINF:-1, DSports
